@@ -1,0 +1,258 @@
+#: locale=vi-VN
+
+## Action
+
+### URL
+LinkBehaviour_2226C7AA_00EC_69C1_414E_E5AAD2C2AC2C.source = https://dvat.com.vn/
+LinkBehaviour_2647C447_05FA_2794_4180_0E8091458032.source = https://wepac.vn/
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2598.770123800444!2d106.20424664363534!3d20.594931942591664!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135e96f33f71b35%3A0xab975a24da481348!2zQ8O0bmcgdHkgY-G7lSBwaOG6p24gV0VQQUM!5e1!3m2!1svi!2sus!4v1730456142863!5m2!1svi!2sus
+WebFrame_F6C23B02_E6AC_473B_41EA_F0E6B25500E5.url = //www.youtube.com/embed/Na4WLifbVDI
+PopupWebFrameBehaviour_C272CDC5_70DF_FEDE_41CE_AD157BF616B2.url = //www.youtube.com/embed/hJmZF9KSfPI
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_ACC3219E_E7EB_C34B_41EC_A0B236049494.text = Chào mừng đến với  \
+Công ty Cổ phần WEPAC
+QuadHotspotPanoramaOverlayTextImage_B744D466_E198_1AE2_41D1_A2D40D01B049.text = Khu Kiểm hàng
+HotspotPanoramaOverlayTextImage_80892E58_E198_262E_41E2_A88CA6E2BF19.text = Khu may
+QuadHotspotPanoramaOverlayTextImage_ACE969C3_E188_2A22_41E6_E3CDAB38412A.text = Khu văn phòng
+HotspotPanoramaOverlayTextImage_3056158A_7169_2F6A_41D0_A7EF4168D61A.text = MÁY CHIA MÀNG
+HotspotPanoramaOverlayTextImage_333F64E3_7169_2ED9_41B0_C576DC5AC714.text = MÁY CHIA VIỀN
+HotspotPanoramaOverlayTextImage_FDAED4A2_E0F8_1A62_41E0_222083A5F895.text = MÁY CẮT BÁN THÀNH PHẨM
+HotspotPanoramaOverlayTextImage_3D016EC6_715B_1ADA_41DA_83EBEFE5C813.text = MÁY CẮT BÁN THÀNH PHẨM
+HotspotPanoramaOverlayTextImage_FE93DA37_E089_EE62_41D3_8460EEC91AE8.text = MÁY CẮT MAY IN TỰ ĐỘNG
+QuadHotspotPanoramaOverlayTextImage_F76D0FE5_E67A_C8D6_41B8_8ED27B3EB84C.text = MÁY DỆT
+HotspotPanoramaOverlayTextImage_F4681D94_E69A_C976_41B4_68F9C007FA63.text = MÁY DỆT
+QuadHotspotPanoramaOverlayTextImage_279F13A1_E398_7E1E_41E4_21655C584EB2.text = MÁY IN ỐNG ĐỒNG 8 MÀU
+HotspotPanoramaOverlayTextImage_1F1E1D07_0FDF_0E75_418A_7145D50F04AB.text = MÁY KÉO SỢI
+HotspotPanoramaOverlayTextImage_F582A3FA_E6BA_F8B3_4170_707A10DBDA7E.text = MÁY KÉO SỢI
+HotspotPanoramaOverlayTextImage_F5FE3BB0_E6B6_494E_41CB_F1A62DF99A4F.text = MÁY KÉO SỢI
+HotspotPanoramaOverlayTextImage_C0C9FD19_E088_2A2F_41E6_E6F212B7C37C.text = MÁY TRÁNG 2 ĐẦU
+QuadHotspotPanoramaOverlayTextImage_F334F270_E6B6_5BCE_41E3_2EF6859E2555.text = Nhà kho 1
+QuadHotspotPanoramaOverlayTextImage_F436969E_E6B6_7B72_41D1_AFCEB9C8DD26.text = Nhà kho 2
+QuadHotspotPanoramaOverlayTextImage_B07EBDC6_E188_6A22_41B5_D92AF78588F8.text = Nhà máy
+QuadHotspotPanoramaOverlayTextImage_F61C5044_E588_EAF5_41C0_8DA5DB96880D.text = Phòng Giám đốc Tài chính
+HotspotPanoramaOverlayTextImage_F7931D45_E5B9_1AF7_41E3_38D2C0B3FD77.text = Phòng Marketing & Thương mại điện tử
+QuadHotspotPanoramaOverlayTextImage_F6F8F529_E589_6ABF_41AF_1617AFEDE85A.text = Phòng Phó chủ tịch HĐQT
+HotspotPanoramaOverlayTextImage_F691B65F_E5B9_1693_41C3_00279EA9E664.text = Phòng Quản lý đơn hàng và Hành chính
+QuadHotspotPanoramaOverlayTextImage_F68D4CAB_E58B_1BB2_41EB_412E9D7B1579.text = Phòng Tài chính - Kế toán
+QuadHotspotPanoramaOverlayTextImage_F4FBA66F_E5B9_16B3_41EC_29F662CF43BA.text = Phòng họp tầng 2
+QuadHotspotPanoramaOverlayTextImage_B2F9482E_E188_6A62_41DF_7555B9D1FEA4.text = Phòng in
+QuadHotspotPanoramaOverlayTextImage_F49795D6_E597_1595_41D7_D25ABDBB2489.text = Phòng khách
+HotspotPanoramaOverlayTextImage_F0E4F6E7_E5BB_37B3_41EA_63B49A30713E.text = Phòng kinh doanh
+HotspotPanoramaOverlayTextImage_F4A39932_E5B8_FAAD_41E9_F806CDFA5F89.text = Phòng kinh doanh
+QuadHotspotPanoramaOverlayTextImage_B42619EA_E198_2DE2_41CE_3A0E03249705.text = Phòng kinh doanh
+HotspotPanoramaOverlayTextImage_CA9866B5_E18B_E661_41E3_A1A6433D9FD9.text = Phòng kiểm hàng
+QuadHotspotPanoramaOverlayTextImage_B3DEEB1F_E198_2E22_41E1_F799961E1EFD.text = Phòng kế hoạch
+HotspotPanoramaOverlayTextImage_AE02BFF5_E1B8_65E7_41E0_62CA3D7627B9.text = Phòng kế hoạch: Phục vụ công tác quản lý, họp, lên kế hoạch sản xuất theo đơn hàng và theo năng lực nhà máy, dự trù phương án sản xuất
+QuadHotspotPanoramaOverlayTextImage_B95E2C48_E198_2A2E_41E8_D833121FF80D.text = Phòng may
+QuadHotspotPanoramaOverlayTextImage_B1ACAD47_E188_6A22_41E5_D4C24ACC8C34.text = Phòng may
+QuadHotspotPanoramaOverlayTextImage_B125CCB3_E198_2A62_41EA_BF7D9220AAD6.text = Phòng mẫu
+HotspotPanoramaOverlayTextImage_AB766809_E1B8_EA2F_41C0_8C0E7F2C5ED5.text = Phòng mẫu: Trưng bày, tiếp khách tham quan, kiểm tra chất lượng hàng mẫu/ mẫu đại trà
+QuadHotspotPanoramaOverlayTextImage_3E1F2471_E378_FAFE_41D9_8D923D50FB93.text = Phòng phó giám đốc
+QuadHotspotPanoramaOverlayTextImage_F5C39D8D_E599_1A77_41D6_4698142485EE.text = Phòng phó giám đốc
+QuadHotspotPanoramaOverlayTextImage_EA660555_E589_6A96_41E5_7571816DAA37.text = Phòng phỏng vấn
+QuadHotspotPanoramaOverlayTextImage_F4EA6A4A_E5BB_3EFD_41DD_529E0E5AD52F.text = Phòng sinh hoạt chung
+HotspotPanoramaOverlayTextImage_AF0A1F7B_E1B8_26E2_41E7_6304D2112120.text = Phòng sản xuất: Quản lý, điều hành các công đoạn sản xuát của nhà máy, phân công nhiệm vụ cho đội ngũ sản xuất
+QuadHotspotPanoramaOverlayTextImage_EA7482E2_E589_2FAD_41EA_6F8FBE6FC1D7.text = Phòng tổng giám đốc
+QuadHotspotPanoramaOverlayTextImage_86BD5D89_E198_6A2E_41E9_049AD3CD6186.text = Sau khi được phân loại, hàng lỗi trong sản xuất may mặc sẽ được doanh nghiệp xử lý bằng cách sửa chữa hoặc tiêu hủy
+QuadHotspotPanoramaOverlayTextImage_B1F1A0FC_E188_1BE6_41E8_16CE7D453A9A.text = Xưởng dệt
+
+### Tooltip
+HotspotPanoramaOverlayArea_825229AA_E198_EA62_41C1_A9F4769D7AED.toolTip = Bật/tắt thông tin khu hàng lỗi
+HotspotPanoramaOverlayArea_D02A869C_DCA7_AF27_41C8_085C34D885B9.toolTip = Bật/tắt thông tin phòng kế hoạch
+HotspotPanoramaOverlayArea_D029769C_DCA7_AF27_41D4_590F8852D956.toolTip = Bật/tắt thông tin phòng mẫu
+HotspotPanoramaOverlayArea_FBDDD768_DCEE_EDE0_41C0_C7A865E88B5C.toolTip = Bật/tắt thông tin phòng sản xuất
+HotspotPanoramaOverlayArea_A3A23F3A_E1F8_2662_419F_508CAB39900B.toolTip = Cổng chính
+HotspotPanoramaOverlayArea_A9820835_E1F8_6A66_4181_E33BAE1E8E39.toolTip = Khu văn phòng
+HotspotPanoramaOverlayArea_A6CFFEB8_E1F8_266D_41D4_FB472AAE2D08.toolTip = Nhà máy
+HotspotPanoramaOverlayArea_F67A5013_E69B_B772_41D9_F986D5E74F84.toolTip = Quay lại cổng chính
+HotspotPanoramaOverlayArea_F52D3504_E599_6A75_41D4_3734434587F6.toolTip = Quay lại hành lang
+HotspotPanoramaOverlayArea_F47DDABB_E58F_3F92_41D0_B781DA8003BA.toolTip = Quay lại hành lang tầng 2
+HotspotPanoramaOverlayArea_F4CA26C8_E589_17FE_41D3_B90243F4E0D4.toolTip = Quay lại hành lang tầng 2
+HotspotPanoramaOverlayArea_F7EBEB36_E599_1E95_41D7_6B13DA9AD734.toolTip = Quay lại hành lang tầng 2
+HotspotPanoramaOverlayArea_F4607325_E59F_2EB6_41E1_35FA606AAD9D.toolTip = Quay lại hành lang tầng 2 - 1
+HotspotPanoramaOverlayArea_A15F5B0E_E7F4_C74B_41E9_D0F76EAAC612.toolTip = Quay lại khu lễ tân
+HotspotPanoramaOverlayArea_58BF1CC7_E388_2A22_41DD_3A5171878C80.toolTip = Quay lại nhà xưởng - 3
+HotspotPanoramaOverlayArea_37DF0BFC_E398_6DE6_41DE_44BB8E16A416.toolTip = Quay lại nhà xưởng - 3
+HotspotPanoramaOverlayArea_F7CAB141_E597_6AEF_41E8_787D2902A6D2.toolTip = Ra ngoài hành lang
+HotspotPanoramaOverlayArea_A94E2FE0_E187_E61E_41E9_F4F494912699.toolTip = Toàn cảnh
+HotspotPanoramaOverlayArea_F53EBE40_E6AA_4BCE_41E6_C7ACA72CF85F.toolTip = Toàn cảnh nhà kho
+HotspotPanoramaOverlayArea_A412B0BF_E7D4_C149_41EA_A0BB843E8A8E.toolTip = Vào phòng phó giám đốc - 2
+HotspotPanoramaOverlayArea_F4E61730_E589_16AE_41E4_CA43F6EDCFA6.toolTip = Vào phòng phỏng vấn
+HotspotPanoramaOverlayArea_C0CA2E86_E089_E625_41E9_61798A17B4ED.toolTip = Xem video
+HotspotPanoramaOverlayArea_FD946C1A_E0F9_EA22_41E9_8293FE437A55.toolTip = Xem video
+HotspotPanoramaOverlayArea_2B83A169_E388_3AEE_41D4_EDA238F0310C.toolTip = Xem video
+HotspotPanoramaOverlayArea_F4557529_E6B6_595E_41DF_7461645CE6B4.toolTip = Xem video
+HotspotPanoramaOverlayArea_F2EFE3C4_E6BA_58D7_41E4_4931981D3456.toolTip = Xem video
+HotspotPanoramaOverlayArea_CB595148_E188_1A2E_41DC_532C1DF5AD61.toolTip = Xem video
+HotspotPanoramaOverlayArea_F4F40B77_E69B_C9B1_41E0_9FA246116E60.toolTip = Xem video
+HotspotPanoramaOverlayArea_F8CB7349_E088_3E21_41E7_65217D372F5E.toolTip = Xem video
+HotspotPanoramaOverlayArea_8545FC30_E198_6A7D_41C6_720AA0BBF1B0.toolTip = Xem video
+HotspotPanoramaOverlayArea_F41D3C91_E5B7_1A6F_41EC_428C7007E4DB.toolTip = Xem video về khu văn phòng
+HotspotPanoramaOverlayArea_A5566661_E1F8_261E_41E9_EA0197B4F082.toolTip = Xưởng dệt
+HotspotPanoramaOverlayArea_34C3E22B_E388_1E62_41B7_A6F205EB8418.toolTip = Đi lên tầng 2
+HotspotPanoramaOverlayArea_F455598E_E589_3A75_41CA_9A0FF31BD707.toolTip = Đi vào khu văn phòng
+HotspotPanoramaOverlayArea_F5C68379_E6BA_B9B1_41EC_7E9098084458.toolTip = Đi vào nhà kho
+HotspotPanoramaOverlayArea_FEB7E2E7_E088_3FE2_41C6_427AE6B69E23.toolTip = Đi vào phòng in
+HotspotPanoramaOverlayArea_CA8AD742_DD27_0B13_41A3_3B447B0C322A.toolTip = Đi vào phòng may
+HotspotPanoramaOverlayArea_835B4E88_E188_662E_41E9_2107A7BF6B6F.toolTip = Đi vào phòng may
+HotspotPanoramaOverlayArea_F75C5104_E599_2A75_41DE_3B51834BE9F7.toolTip = Đi vào phòng tổng giám đốc
+HotspotPanoramaOverlayArea_804597DC_E188_6626_41B7_68820E67DB24.toolTip = Đi vào phòng đảm bảo
+HotspotPanoramaOverlayArea_F6E8B282_E589_6E6D_41E8_C35461015C49.toolTip = Đi xuống tầng 1
+HotspotPanoramaOverlayArea_F4EE671C_E098_2626_41E0_576250241B58.toolTip = Đi đến cổng chính
+HotspotPanoramaOverlayArea_B2C906F5_E7AC_4ED8_41CF_54B91770ACBE.toolTip = Đi đến cổng chính
+HotspotPanoramaOverlayArea_F787EA9F_E59F_1F93_41E3_0573C4DE30D1.toolTip = Đi đến hành lang tầng 2 - 2
+HotspotPanoramaOverlayArea_F259960B_E6AD_BB52_41E2_F2694E64B694.toolTip = Đi đến nhà kho - 1
+HotspotPanoramaOverlayArea_F399DC0F_E6AA_CF52_41DA_F667C9AFD987.toolTip = Đi đến nhà kho - 2
+HotspotPanoramaOverlayArea_FB80B703_E33A_B4F9_41E5_CAA9CA99AEC5.toolTip = Đi đến nhà xưởng - 1
+HotspotPanoramaOverlayArea_D06BD9EE_E188_2DE2_4173_30252EFB1E4E.toolTip = Đi đến nhà xưởng - 1
+HotspotPanoramaOverlayArea_83DBDC07_E198_6A23_41EC_0C3DA6C5C967.toolTip = Đi đến nhà xưởng - 2
+HotspotPanoramaOverlayArea_FB867706_E33A_B4FB_41E0_B55D7FF5551C.toolTip = Đi đến nhà xưởng - 2
+HotspotPanoramaOverlayArea_FB84670A_E33A_B30B_41E6_DD3BBDF774CE.toolTip = Đi đến nhà xưởng - 2
+HotspotPanoramaOverlayArea_FB852709_E33A_B309_41E5_264A3919FB84.toolTip = Đi đến nhà xưởng - 3
+HotspotPanoramaOverlayArea_2E4E4CCC_E388_2A26_41C9_084BBE5E8023.toolTip = Đi đến nhà xưởng - 3
+HotspotPanoramaOverlayArea_353ED4AD_E388_1A67_41E2_9C31F8686A50.toolTip = Đi đến phòng họp tầng 1
+HotspotPanoramaOverlayArea_5E2BFC4D_E388_6A26_41B3_776ECE702F9F.toolTip = Đi đến phòng in - 1
+HotspotPanoramaOverlayArea_5981052A_E388_3A62_41E3_78A252360053.toolTip = Đi đến phòng in - 2
+HotspotPanoramaOverlayArea_295EBDFA_E388_25E2_41E2_B929744580EE.toolTip = Đi đến phòng in - 3
+HotspotPanoramaOverlayArea_D1F92AC5_E188_EE26_41E4_D034BDCF9FE6.toolTip = Đi đến phòng may
+HotspotPanoramaOverlayArea_F7FD7996_E58F_7D92_41DB_F22192D6B53E.toolTip = Đi đến phòng sale
+HotspotPanoramaOverlayArea_F4E32569_E5BF_2ABE_41E6_5B6D315BD514.toolTip = Đi đến phòng tài chính và kế toán
+HotspotPanoramaOverlayArea_802CC380_E198_FE1F_41E0_00B14F3B4DF8.toolTip = Đi đến phòng đảm bảo
+HotspotPanoramaOverlayArea_C527347C_DD65_0DF7_41D2_C0878EB54781.toolTip = Đi đến phòng đảm bảo
+
+## Media
+
+### Image
+imlevel_CC29CF39_70A9_1BB6_41D0_12D70181E368.url = media/panorama_B40DC3C3_BE20_A4E9_41A9_EC1D14E4969E_HS_2nkt5gl5_vi-VN.png
+imlevel_CC36BEF3_70A9_1ABA_41D5_DDC9D80A95C1.url = media/panorama_B40DC3C3_BE20_A4E9_41A9_EC1D14E4969E_HS_3hfw4sms_vi-VN.png
+imlevel_CC3FEDCE_70A9_1EEA_41C7_119C9DD686F6.url = media/panorama_B40DC3C3_BE20_A4E9_41A9_EC1D14E4969E_HS_m23w04rj_vi-VN.png
+imlevel_D99FFB20_FB72_377C_41DD_FB28F4810566.url = media/panorama_B40DC3C3_BE20_A4E9_41A9_EC1D14E4969E_HS_nqicebf5_vi-VN.png
+imlevel_CC394D03_70A9_1F5A_41D3_9F26459405C6.url = media/panorama_B40DC3C3_BE20_A4E9_41A9_EC1D14E4969E_HS_p5r3j2sk_vi-VN.png
+imlevel_CC2DDF80_70A9_1B56_419B_EDDE94DEE5B0.url = media/panorama_B40DC3C3_BE20_A4E9_41A9_EC1D14E4969E_HS_ro10mwux_vi-VN.png
+imlevel_D9DD02A3_FB72_317C_41D5_1E351CA3C6AA.url = media/panorama_B466748D_BE20_A379_41E0_A1B3A026A0C9_HS_62xo1wbh_vi-VN.png
+imlevel_CD769875_70A9_25BE_41C7_E458E709CC01.url = media/panorama_B46755AF_BE20_6CB9_41E3_582B6AA58532_HS_ur509gs0_vi-VN.png
+imlevel_CD52FAFE_70A9_1AAA_41D7_C3702DB17554.url = media/panorama_B472D39C_BE20_A49F_41E6_655DB0EFBCE2_HS_7nvaa3f7_vi-VN.png
+imlevel_CD555B54_70A9_1BFE_4197_11367686D3A7.url = media/panorama_B472D39C_BE20_A49F_41E6_655DB0EFBCE2_HS_fi2qnatb_vi-VN.png
+imlevel_D2EEEDBE_FB36_1344_41ED_D29DC9EEBFE2.url = media/panorama_B472D39C_BE20_A49F_41E6_655DB0EFBCE2_HS_ok1877nd_vi-VN.png
+imlevel_CC2701D1_70A9_66F6_41B3_A78578810742.url = media/panorama_B474A54C_BE20_EDFF_41D9_5969051AD00D_HS_qkiptw39_vi-VN.png
+imlevel_C0E39504_FB13_F344_41D5_34164E7F1F38.url = media/panorama_B474A54C_BE20_EDFF_41D9_5969051AD00D_HS_v51k9jho_vi-VN.png
+imlevel_D8F69DC2_FB72_333C_41CA_BA8536A71956.url = media/panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99_HS_5suq1l1z_vi-VN.png
+imlevel_D8846FF5_FB72_0EC4_41ED_D7F10C3964F8.url = media/panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99_HS_8303p8v0_vi-VN.png
+imlevel_CC2F2FB5_70A9_1ABE_41D8_CC1DFC074861.url = media/panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99_HS_9zr4xg9f_vi-VN.png
+imlevel_D88660BF_FB72_1144_41D4_67D5DF6D4F15.url = media/panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99_HS_hqezdk2t_vi-VN.png
+imlevel_15F7FCBC_05BA_20F4_4180_9A356B9F527C.url = media/panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99_HS_tw5mf6e3_vi-VN.png
+imlevel_14E5FB20_05BA_218C_418F_DF3C8037E5E0.url = media/panorama_B47FFBC9_BE20_A4F9_41D7_6EF8B1E051C6_HS_4qy9i9jo_vi-VN.png
+imlevel_1452BBFE_05BA_2074_4179_D81B68BCF9F7.url = media/panorama_B47FFBC9_BE20_A4F9_41D7_6EF8B1E051C6_HS_cn25m72m_vi-VN.png
+imlevel_1A66F4D2_00E4_6F41_416C_CD18042C64DE.url = media/panorama_B47FFBC9_BE20_A4F9_41D7_6EF8B1E051C6_HS_dmz3kfca_vi-VN.png
+imlevel_D93FFFA7_FB72_0F44_41CA_07B79FD9BCC6.url = media/panorama_B47FFBC9_BE20_A4F9_41D7_6EF8B1E051C6_HS_n1f56mux_vi-VN.png
+imlevel_CD8BF79C_70A9_2B6E_41DC_2E7848381487.url = media/panorama_B47FFBC9_BE20_A4F9_41D7_6EF8B1E051C6_HS_o265kaes_vi-VN.png
+imlevel_CD6948EB_70A9_26AA_4190_124E205DB590.url = media/panorama_C4A247CE_CE7F_9CA4_41E4_CDD6E80DC307_HS_anb0ebn5_vi-VN.png
+imlevel_D9D703EF_FB72_36C3_41E7_6C9492AD0877.url = media/panorama_C4A247CE_CE7F_9CA4_41E4_CDD6E80DC307_HS_flops4b9_vi-VN.png
+imlevel_1B5D88E0_0FD3_17AB_4188_0F5B102ABC22.url = media/panorama_C4A247CE_CE7F_9CA4_41E4_CDD6E80DC307_HS_kkfhgmif_vi-VN.png
+imlevel_CD6FA93C_70A9_27AE_41DA_2770EBDD8287.url = media/panorama_C4A247CE_CE7F_9CA4_41E4_CDD6E80DC307_HS_m0fkpd2y_vi-VN.png
+imlevel_CD5D8A8E_70A9_256A_41D9_922E449673A8.url = media/panorama_C4A9F53E_CE7F_9DE4_41B7_AD82B11CF21B_HS_15bm7mi4_vi-VN.png
+imlevel_CD67FA0F_70A9_256A_41B9_BD3A4D035F25.url = media/panorama_C4A9F53E_CE7F_9DE4_41B7_AD82B11CF21B_HS_5ttjxcdk_vi-VN.png
+imlevel_CD63E9A8_70A9_2756_41BA_DA060175BB84.url = media/panorama_C4A9F53E_CE7F_9DE4_41B7_AD82B11CF21B_HS_6l0icsqg_vi-VN.png
+imlevel_D9E3866E_FB72_31C4_41EC_8D1A2D46D8EE.url = media/panorama_C4A9F53E_CE7F_9DE4_41B7_AD82B11CF21B_HS_7fc209bg_vi-VN.png
+imlevel_CD6469DE_70A9_26EA_41C3_6E89CC185C2D.url = media/panorama_C4A9F53E_CE7F_9DE4_41B7_AD82B11CF21B_HS_ofl6jxpe_vi-VN.png
+imlevel_D9FC36E6_FB72_3EC5_41E1_4631BC33CFC1.url = media/panorama_C4A9F53E_CE7F_9DE4_41B7_AD82B11CF21B_HS_wp44sip9_vi-VN.png
+imlevel_CC246156_70A9_67FA_41D9_31C6D0D0799C.url = media/panorama_C4AA2F54_CE7F_EDA5_41E9_5F8D098E7423_HS_jnv02xno_vi-VN.png
+imlevel_1BB9D74E_00E4_6940_4147_A0292227AFF2.url = media/panorama_C4B58E9F_CE60_6CA3_41D2_819A88B36B3A_HS_bx4sdqlk_vi-VN.png
+imlevel_1BBCA713_00E4_6AC7_4166_57E925C28D54.url = media/panorama_C4B58E9F_CE60_6CA3_41D2_819A88B36B3A_HS_caa0h92x_vi-VN.png
+imlevel_D6713807_FB32_3144_41EF_6874C43576FE.url = media/panorama_C54C59F5_CE7F_B464_41E9_26586045322A_HS_793cdte2_vi-VN.png
+imlevel_D67D38EC_FB32_32C4_41E0_9AC7FD96CEAC.url = media/panorama_C54C59F5_CE7F_B464_41E9_26586045322A_HS_d5g8s313_vi-VN.png
+imlevel_CDBA5122_FB16_337D_41B1_A8C2FD0F4623.url = media/panorama_C54C59F5_CE7F_B464_41E9_26586045322A_HS_m5znqeuz_vi-VN.png
+imlevel_CE25C6DE_70A9_6AEA_41D6_4F4C0A9EA5BA.url = media/panorama_C5506DE0_CE7F_EC9D_41DB_B8080AEEEE56_HS_bmbe8d04_vi-VN.png
+imlevel_CC129237_70A9_65BA_41DB_841D1AF1B67C.url = media/panorama_C5506DE0_CE7F_EC9D_41DB_B8080AEEEE56_HS_k6esq086_vi-VN.png
+imlevel_CFA70717_70A9_6B7A_41D4_970E7BBEEFC4.url = media/panorama_C5506DE0_CE7F_EC9D_41DB_B8080AEEEE56_HS_t4ilw0ht_vi-VN.png
+imlevel_DA22BBDE_FB72_16C4_41C4_B7CDDE7FF413.url = media/panorama_C55A36A0_CE60_7C9D_41E3_C8B6317987E7_HS_un0cgy6c_vi-VN.png
+imlevel_1A1FF5A5_00E4_69C0_4151_E9B1E6745FCC.url = media/panorama_D95364A7_E1B8_FA63_41E6_58BCBB91CD2D_HS_11l531qj_vi-VN.png
+imlevel_D9C76221_FB72_317C_41E5_FB0BE39FE08F.url = media/panorama_D95364A7_E1B8_FA63_41E6_58BCBB91CD2D_HS_gvup1lj1_vi-VN.png
+imlevel_722F27A3_73A7_2B5A_41D8_59DE048AC2DB.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_vi-VN_0_0.png
+imlevel_722F27A3_73A7_2B5A_41C2_5D4459ABC0CA.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_vi-VN_0_1.png
+imlevel_722F27A3_73A7_2B5A_41D0_F5BFEF7FE335.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_vi-VN_0_2.png
+imlevel_722F27A4_73A7_2B5E_41AA_BB096CCB2E98.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_vi-VN_0_3.png
+
+### Popup Image
+
+### Title
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F.label = BSCI
+panorama_C54C59F5_CE7F_B464_41E9_26586045322A.label = Cổng chính
+panorama_C4A247CE_CE7F_9CA4_41E4_CDD6E80DC307.label = Hành lang tầng 2
+panorama_C5506DE0_CE7F_EC9D_41DB_B8080AEEEE56.label = Hành lang tầng 2 - 2
+panorama_C4B9F267_CE7F_9463_41D5_116A229587F5.label = Khu lễ tân
+panorama_C4A9F53E_CE7F_9DE4_41B7_AD82B11CF21B.label = Khu văn phòng
+panorama_B46F5D94_BE20_FD6F_4193_5DCC87E08E97.label = Nhà kho
+panorama_B46E07A7_BE20_ECAA_41D9_9FEEEB180136.label = Nhà kho - 2
+panorama_B472D39C_BE20_A49F_41E6_655DB0EFBCE2.label = Nhà máy dệt
+panorama_B474A54C_BE20_EDFF_41D9_5969051AD00D.label = Nhà máy dệt 2
+panorama_B47FFBC9_BE20_A4F9_41D7_6EF8B1E051C6.label = Nhà xưởng
+panorama_B40DC3C3_BE20_A4E9_41A9_EC1D14E4969E.label = Nhà xưởng 2
+panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99.label = Nhà xưởng 3
+panorama_C5525B2E_CE7F_95E5_41D6_78ECEE0CF041.label = Phòng giám đốc
+panorama_C4AE218B_CE7F_B4A3_41D9_B09CE3C4E72D.label = Phòng họp tầng 1
+panorama_B466748D_BE20_A379_41E0_A1B3A026A0C9.label = Phòng in
+panorama_B4686E9C_BE20_9C9E_41E6_CA96902695D9.label = Phòng in - 2
+panorama_B462302B_BE20_A3B9_41E7_A42859450DC1.label = Phòng in - 3
+panorama_D95364A7_E1B8_FA63_41E6_58BCBB91CD2D.label = Phòng may
+panorama_C4A9538B_CE7F_F4AC_41CF_826A167FEC47.label = Phòng phó giám đốc
+panorama_C4A73960_CE7F_F59D_41E3_8090D5C0A1D9.label = Phòng phỏng vấn
+panorama_C4AA2F54_CE7F_EDA5_41E9_5F8D098E7423.label = Phòng tài chính và kế toán
+panorama_B46755AF_BE20_6CB9_41E3_582B6AA58532.label = Phòng đảm bảo
+panorama_C55A36A0_CE60_7C9D_41E3_C8B6317987E7.label = Toàn cảnh
+panorama_C4B58E9F_CE60_6CA3_41D2_819A88B36B3A.label = Toàn cảnh nhà kho
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_0.label = WEPAC - BSCI-01
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_1.label = WEPAC - BSCI-02
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_2.label = WEPAC - BSCI-03
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_3.label = WEPAC - BSCI-04
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_4.label = WEPAC - BSCI-05
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_5.label = WEPAC - BSCI-06
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_6.label = WEPAC - BSCI-07
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_7.label = WEPAC - BSCI-08
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_8.label = WEPAC - BSCI-09
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_9.label = WEPAC - BSCI-10
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_10.label = WEPAC - BSCI-11
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_11.label = WEPAC - BSCI-12
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_12.label = WEPAC - BSCI-13
+album_13A99439_05AE_67FD_418F_A45AF94DFB1F_13.label = WEPAC - BSCI-14
+
+## Popup
+
+### Title
+window_C26C5DC4_70DF_FEDE_41C1_D48AC0E232D2.title = MÁY CẮT MAY IN TỰ ĐỘNG
+
+## Skin
+
+### Button
+Button_14AAB271_05AA_638D_4192_6E6E27FD589B.label = BSCI
+Button_1549239F_05AA_60B5_4188_B2697925B0E1.label = GRS
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = ISO 9001:2015
+Button_C2ECA238_E6D5_C157_41C5_C4D00B5BC73A.label = NHÀ KHO
+Button_D0EC1E45_E774_4139_41C2_75EAAF7B1BFF.label = NHÀ MÁY
+Button_C2ECF238_E6D5_C157_41E0_D7C6FB6C7AA6.label = NHÀ MÁY DỆT
+Button_C2EB7237_E6D5_C159_41D1_8C25CE8B594E.label = TOÀN CẢNH
+Button_C2ECC238_E6D5_C157_41E0_D7F4E8669F7E.label = VĂN PHÒNG
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+
+### Image
+Image_C2EB4237_E6D5_C159_41C1_19A2D283E20D.url = skin/Image_C2EB4237_E6D5_C159_41C1_19A2D283E20D_vi-VN.png
+
+### Label
+Label_158768B2_05AE_E08C_4182_8E34C42120E6.text =  CHỨNG NHẬN
+Label_215B55B8_00E4_A9C0_4153_48BF29F96BCC.text = Tạo bởi DVAT.com.vn
+Label_FA24A730_E6F5_CF57_41C9_C62270ACEA04.text = {{title}}
+
+### Multiline Text
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.76vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.756339581036382vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.76vmin;font-family:'Open Sans';"><B>Công ty cổ phần WEPAC</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.653803748621831vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vmin;">  </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.653803748621831vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vmin;">• </SPAN><SPAN STYLE="font-size:1.65vmin;"><B> Email:</B></SPAN><SPAN STYLE="font-size:1.65vmin;"> info@wepac.vn</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.653803748621831vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vmin;">•  </SPAN><SPAN STYLE="font-size:1.65vmin;"><B>Phone:</B></SPAN><SPAN STYLE="font-size:1.65vmin;"> (+84) 96 806 1122  </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.653803748621831vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vmin;">•  </SPAN><SPAN STYLE="font-size:1.65vmin;"><B>Địa chỉ:</B></SPAN><SPAN STYLE="font-size:1.65vmin;"> Cụm công nghiệp Đồng Tu, thị trấn Hưng Hà, huyện Hưng Hà, tỉnh Thái Bình, Việt Nam</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.65vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.76vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.410143329658215vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#66ccff;font-size:4.41vmin;font-family:'Open Sans';"><B>KHÁM PHÁ WEPAC</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803732vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.54vmin;">Với hơn 7 năm kinh nghiệm sản xuất các sản phẩm túi mua sắm tái sử dụng, chúng tôi tin rằng mỗi hành động nhỏ đều có thể dẫn đến sự thay đổi đáng kể. Đó là lý do chúng tôi tập trung sản xuất những chiếc túi mua sắm không chỉ tiện lợi mà còn bền vững và thân thiện với môi trường. Mỗi chiếc túi của chúng tôi đều được thiết kế để sử dụng lâu dài, giúp giảm thiểu rác thải nhựa và giảm thiểu tác động tiêu cực đến thiên nhiên.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803732vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.54vmin;">Với WEPAC, bạn không chỉ nhận được những sản phẩm chất lượng mà còn góp phần xây dựng một thế giới xanh hơn. Hãy cùng nhau tạo nên sự khác biệt, vì một tương lai bền vững cho tất cả mọi người.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5300000000000007vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.18vmin;"> •  </SPAN><SPAN STYLE="font-size:1.53vmin;">Năm thành lập: 2017</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000007vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.18vmin;"> •  </SPAN><SPAN STYLE="font-size:1.53vmin;">Tổng diện tích: 2,8ha.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000007vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.18vmin;"> •  </SPAN><SPAN STYLE="font-size:1.53vmin;">Số lượng công nhân: 500+</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000007vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.18vmin;"> •  </SPAN><SPAN STYLE="font-size:1.53vmin;">Số lượng nhà máy: 3 nhà máy.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000007vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.18vmin;"> •  </SPAN><SPAN STYLE="font-size:1.53vmin;">Tổng doanh thu (2023): 19 triệu $</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000007vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.18vmin;"> •  </SPAN><SPAN STYLE="font-size:1.53vmin;">Tổng sản lượng: 6 triệu túi/tháng</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.653803748621831vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vmin;"> </SPAN><SPAN STYLE="font-size:1.18vmin;">•  </SPAN><SPAN STYLE="font-size:1.53vmin;">Địa chỉ: Cụm công nghiệp Đồng Tu, thị trấn Hưng Hà, huyện Hưng Hà, tỉnh Thái Bình, Việt Nam</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.139999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Open Sans';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.130228887134961vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.13vh;font-family:'Open Sans ExtraBold';">Khung cảnh</SPAN><SPAN STYLE="font-size:5.13vh;font-family:'Open Sans';">:</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Wepac
