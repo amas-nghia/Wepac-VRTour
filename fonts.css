@@ -1,10 +1,4 @@
 @font-face {
-   font-family: "Bebas Neue Bold";
-   src: url("fonts/BebasNeueBold.woff") format("woff"), url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype");
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
    font-family: "Open Sans";
    src: url("fonts/Open Sans Italic.woff") format("woff"), url("fonts/Open Sans Italic.eot") format("embedded-opentype"), url("fonts/Open Sans Italic.ttf") format("truetype"), url("fonts/Open Sans Italic.svg") format("svg");
    font-weight: normal;
@@ -14,6 +8,12 @@
    font-family: "Open Sans";
    src: url("fonts/Open Sans Regular.woff") format("woff"), url("fonts/Open Sans Regular.eot") format("embedded-opentype"), url("fonts/Open Sans Regular.ttf") format("truetype"), url("fonts/Open Sans Regular.svg") format("svg");
    font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Bold";
+   src: url("fonts/BebasNeueBold.woff") format("woff"), url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype");
+   font-weight: bold;
    font-style: normal;
 }
 @font-face {
