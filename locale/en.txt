@@ -11,10 +11,10 @@ PopupPDFBehaviour_7289CE19_736B_7D76_41B8_02C56E6F3358.url = files/WEPAC-GRS-202
 ### URL
 LinkBehaviour_5AEDB3C9_7159_EAD6_41CB_C9DBAF386817.source = https://dvat.com.vn/
 LinkBehaviour_2226C7AA_00EC_69C1_414E_E5AAD2C2AC2C.source = https://dvat.com.vn/
-LinkBehaviour_419E3FC5_7167_1ADE_41BB_5478A7D98201.source = https://wepac.vn/
 LinkBehaviour_2647C447_05FA_2794_4180_0E8091458032.source = https://wepac.vn/
-WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2598.770123800444!2d106.20424664363534!3d20.594931942591664!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135e96f33f71b35%3A0xab975a24da481348!2zQ8O0bmcgdHkgY-G7lSBwaOG6p24gV0VQQUM!5e1!3m2!1svi!2sus!4v1730456142863!5m2!1svi!2sus
+LinkBehaviour_419E3FC5_7167_1ADE_41BB_5478A7D98201.source = https://wepac.vn/
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2598.770123800444!2d106.20424664363534!3d20.594931942591664!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135e96f33f71b35%3A0xab975a24da481348!2zQ8O0bmcgdHkgY-G7lSBwaOG6p24gV0VQQUM!5e1!3m2!1svi!2sus!4v1730456142863!5m2!1svi!2sus
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2598.770123800444!2d106.20424664363534!3d20.594931942591664!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135e96f33f71b35%3A0xab975a24da481348!2zQ8O0bmcgdHkgY-G7lSBwaOG6p24gV0VQQUM!5e1!3m2!1svi!2sus!4v1730456142863!5m2!1svi!2sus
 PopupWebFrameBehaviour_72462358_73D9_2BF6_41BD_875141ABF15B.url = //www.youtube.com/embed/2xSbXmETe7E?v=2xSbXmETe7E
 PopupWebFrameBehaviour_72430136_73D8_E7BA_418C_04CC37E50BEE.url = //www.youtube.com/embed/3uCdxMYSdO8?v=3uCdxMYSdO8
 PopupWebFrameBehaviour_7244B1FB_73D9_26AA_41B4_4E6111628A5D.url = //www.youtube.com/embed/8yzxQsPaqeI?v=8yzxQsPaqeI
@@ -50,54 +50,54 @@ PopupWebFrameBehaviour_7257873D_73E7_EBAE_41CA_0118BCC58713.url = //www.youtube.
 ## Hotspot
 
 ### Text
-QuadHotspotPanoramaOverlayTextImage_F4FBA66F_E5B9_16B3_41EC_29F662CF43BA.text = 2nd Floor Meeting Room
-QuadHotspotPanoramaOverlayTextImage_279F13A1_E398_7E1E_41E4_21655C584EB2.text = 8-COLOR ROTOGRAVURE PRINTER
-QuadHotspotPanoramaOverlayTextImage_725A3B8E_73E9_1B6A_419E_7DC8AA4A9E4E.text = 8-COLORS ROTOGRAVURE PRINTER
-HotspotPanoramaOverlayTextImage_FE93DA37_E089_EE62_41D3_8460EEC91AE8.text = AUTOMATIC CUTTING MACHINE
-QuadHotspotPanoramaOverlayTextImage_86BD5D89_E198_6A2E_41E9_049AD3CD6186.text = After being sorted, defective garments in production are handled by the company through either repair or disposal.
-QuadHotspotPanoramaOverlayTextImage_F61C5044_E588_EAF5_41C0_8DA5DB96880D.text = Chief Financial Officer's Office
-QuadHotspotPanoramaOverlayTextImage_F4EA6A4A_E5BB_3EFD_41DD_529E0E5AD52F.text = Common Room
-HotspotPanoramaOverlayTextImage_C0C9FD19_E088_2A2F_41E6_E6F212B7C37C.text = DOUBLE-HEAD COATING MACHINE
-HotspotPanoramaOverlayTextImage_1B367921_2631_AD52_4193_5D1D0F5C6302.text = DOUBLE-HEAD COATING MACHINE
-QuadHotspotPanoramaOverlayTextImage_F5C39D8D_E599_1A77_41D6_4698142485EE.text = Deputy Director's Office
-QuadHotspotPanoramaOverlayTextImage_3E1F2471_E378_FAFE_41D9_8D923D50FB93.text = Deputy Director's Office
-HotspotPanoramaOverlayTextImage_333F64E3_7169_2ED9_41B0_C576DC5AC714.text = EDGE TRIMMING MACHINE
-QuadHotspotPanoramaOverlayTextImage_B07EBDC6_E188_6A22_41B5_D92AF78588F8.text = FACTORY
-QuadHotspotPanoramaOverlayTextImage_F68D4CAB_E58B_1BB2_41EB_412E9D7B1579.text = Finance and Accounting Department
-QuadHotspotPanoramaOverlayTextImage_EA7482E2_E589_2FAD_41EA_6F8FBE6FC1D7.text = General Director's Office
-QuadHotspotPanoramaOverlayTextImage_EA660555_E589_6A96_41E5_7571816DAA37.text = Interview Room
-HotspotPanoramaOverlayTextImage_3056158A_7169_2F6A_41D0_A7EF4168D61A.text = MEMBRANE DIVIDING MACHINE
-HotspotPanoramaOverlayTextImage_F7931D45_E5B9_1AF7_41E3_38D2C0B3FD77.text = Marketing and E-commerce Department
-HotspotPanoramaOverlayTextImage_F691B65F_E5B9_1693_41C3_00279EA9E664.text = Merchandising and Administration Department
-QuadHotspotPanoramaOverlayTextImage_ACE969C3_E188_2A22_41E6_E3CDAB38412A.text = OFFICE
-HotspotPanoramaOverlayTextImage_F5FE3BB0_E6B6_494E_41CB_F1A62DF99A4F.text = PP EXTRUSION MACHINE
-HotspotPanoramaOverlayTextImage_1F1E1D07_0FDF_0E75_418A_7145D50F04AB.text = PP EXTRUSION MACHINE
-HotspotPanoramaOverlayTextImage_F582A3FA_E6BA_F8B3_4170_707A10DBDA7E.text = PP EXTRUSION MACHINE
-HotspotPanoramaOverlayTextImage_AE02BFF5_E1B8_65E7_41E0_62CA3D7627B9.text = Planning Department: Responsible for management tasks, meetings, production planning based on orders and factory capacity, and preparing production plans.
-QuadHotspotPanoramaOverlayTextImage_B3DEEB1F_E198_2E22_41E1_F799961E1EFD.text = Planning Office
-QuadHotspotPanoramaOverlayTextImage_B2F9482E_E188_6A62_41DF_7555B9D1FEA4.text = Printing Room
-QuadHotspotPanoramaOverlayTextImage_B42619EA_E198_2DE2_41CE_3A0E03249705.text = Quality Control Department
-QuadHotspotPanoramaOverlayTextImage_B744D466_E198_1AE2_41D1_A2D40D01B049.text = Quality Control Department
-HotspotPanoramaOverlayTextImage_CA9866B5_E18B_E661_41E3_A1A6433D9FD9.text = Quality Control Department
-HotspotPanoramaOverlayTextImage_FDAED4A2_E0F8_1A62_41E0_222083A5F895.text = SEMI-FINISHED CUTTING MACHINE
-HotspotPanoramaOverlayTextImage_3D016EC6_715B_1ADA_41DA_83EBEFE5C813.text = SEMI-FINISHED CUTTING MACHINE
-HotspotPanoramaOverlayTextImage_F0E4F6E7_E5BB_37B3_41EA_63B49A30713E.text = Sales Department
-HotspotPanoramaOverlayTextImage_F4A39932_E5B8_FAAD_41E9_F806CDFA5F89.text = Sales Department
-QuadHotspotPanoramaOverlayTextImage_B125CCB3_E198_2A62_41EA_BF7D9220AAD6.text = Sample Room
-HotspotPanoramaOverlayTextImage_AB766809_E1B8_EA2F_41C0_8C0E7F2C5ED5.text = Sample Room: Showcasing products, welcoming visitors, and conducting quality checks on sample and mass production items.
-HotspotPanoramaOverlayTextImage_80892E58_E198_262E_41E2_A88CA6E2BF19.text = Sewing Area
-QuadHotspotPanoramaOverlayTextImage_B1ACAD47_E188_6A22_41E5_D4C24ACC8C34.text = Sewing Room
-QuadHotspotPanoramaOverlayTextImage_B95E2C48_E198_2A2E_41E8_D833121FF80D.text = Sewing Room
-QuadHotspotPanoramaOverlayTextImage_F49795D6_E597_1595_41D7_D25ABDBB2489.text = Small Guest Room
-HotspotPanoramaOverlayTextImage_AF0A1F7B_E1B8_26E2_41E7_6304D2112120.text = The production department is responsible for organizing, managing, and overseeing the entire production process.
-QuadHotspotPanoramaOverlayTextImage_F6F8F529_E589_6ABF_41AF_1617AFEDE85A.text = Vice Chairman of the Board of Directors's Office
-QuadHotspotPanoramaOverlayTextImage_B1F1A0FC_E188_1BE6_41E8_16CE7D453A9A.text = WEAVING FACTORY
-HotspotPanoramaOverlayTextImage_F4681D94_E69A_C976_41B4_68F9C007FA63.text = WEAVING MACHINE
-QuadHotspotPanoramaOverlayTextImage_F76D0FE5_E67A_C8D6_41B8_8ED27B3EB84C.text = WEAVING MACHINE
-QuadHotspotPanoramaOverlayTextImage_F334F270_E6B6_5BCE_41E3_2EF6859E2555.text = Warehouse 1
-QuadHotspotPanoramaOverlayTextImage_F436969E_E6B6_7B72_41D1_AFCEB9C8DD26.text = Warehouse 2
 HotspotPanoramaOverlayTextImage_ACC3219E_E7EB_C34B_41EC_A0B236049494.text = Welcome to \
 WEPAC Joint Stock Company
+QuadHotspotPanoramaOverlayTextImage_B744D466_E198_1AE2_41D1_A2D40D01B049.text = Quality Control Department
+HotspotPanoramaOverlayTextImage_80892E58_E198_262E_41E2_A88CA6E2BF19.text = Sewing Area
+QuadHotspotPanoramaOverlayTextImage_ACE969C3_E188_2A22_41E6_E3CDAB38412A.text = OFFICE
+HotspotPanoramaOverlayTextImage_3056158A_7169_2F6A_41D0_A7EF4168D61A.text = MEMBRANE DIVIDING MACHINE
+HotspotPanoramaOverlayTextImage_333F64E3_7169_2ED9_41B0_C576DC5AC714.text = EDGE TRIMMING MACHINE
+HotspotPanoramaOverlayTextImage_3D016EC6_715B_1ADA_41DA_83EBEFE5C813.text = SEMI-FINISHED CUTTING MACHINE
+HotspotPanoramaOverlayTextImage_FDAED4A2_E0F8_1A62_41E0_222083A5F895.text = SEMI-FINISHED CUTTING MACHINE
+HotspotPanoramaOverlayTextImage_FE93DA37_E089_EE62_41D3_8460EEC91AE8.text = AUTOMATIC CUTTING MACHINE
+QuadHotspotPanoramaOverlayTextImage_F76D0FE5_E67A_C8D6_41B8_8ED27B3EB84C.text = WEAVING MACHINE
+HotspotPanoramaOverlayTextImage_F4681D94_E69A_C976_41B4_68F9C007FA63.text = WEAVING MACHINE
+QuadHotspotPanoramaOverlayTextImage_725A3B8E_73E9_1B6A_419E_7DC8AA4A9E4E.text = 8-COLORS ROTOGRAVURE PRINTER
+QuadHotspotPanoramaOverlayTextImage_279F13A1_E398_7E1E_41E4_21655C584EB2.text = 8-COLOR ROTOGRAVURE PRINTER
+HotspotPanoramaOverlayTextImage_F5FE3BB0_E6B6_494E_41CB_F1A62DF99A4F.text = PP EXTRUSION MACHINE
+HotspotPanoramaOverlayTextImage_F582A3FA_E6BA_F8B3_4170_707A10DBDA7E.text = PP EXTRUSION MACHINE
+HotspotPanoramaOverlayTextImage_1F1E1D07_0FDF_0E75_418A_7145D50F04AB.text = PP EXTRUSION MACHINE
+HotspotPanoramaOverlayTextImage_C0C9FD19_E088_2A2F_41E6_E6F212B7C37C.text = DOUBLE-HEAD COATING MACHINE
+HotspotPanoramaOverlayTextImage_1B367921_2631_AD52_4193_5D1D0F5C6302.text = DOUBLE-HEAD COATING MACHINE
+QuadHotspotPanoramaOverlayTextImage_F334F270_E6B6_5BCE_41E3_2EF6859E2555.text = Warehouse 1
+QuadHotspotPanoramaOverlayTextImage_F436969E_E6B6_7B72_41D1_AFCEB9C8DD26.text = Warehouse 2
+QuadHotspotPanoramaOverlayTextImage_B07EBDC6_E188_6A22_41B5_D92AF78588F8.text = FACTORY
+QuadHotspotPanoramaOverlayTextImage_F61C5044_E588_EAF5_41C0_8DA5DB96880D.text = Chief Financial Officer's Office
+HotspotPanoramaOverlayTextImage_F7931D45_E5B9_1AF7_41E3_38D2C0B3FD77.text = Marketing and E-commerce Department
+QuadHotspotPanoramaOverlayTextImage_F6F8F529_E589_6ABF_41AF_1617AFEDE85A.text = Vice Chairman of the Board of Directors's Office
+HotspotPanoramaOverlayTextImage_F691B65F_E5B9_1693_41C3_00279EA9E664.text = Merchandising and Administration Department
+QuadHotspotPanoramaOverlayTextImage_F68D4CAB_E58B_1BB2_41EB_412E9D7B1579.text = Finance and Accounting Department
+QuadHotspotPanoramaOverlayTextImage_F4FBA66F_E5B9_16B3_41EC_29F662CF43BA.text = 2nd Floor Meeting Room
+QuadHotspotPanoramaOverlayTextImage_B2F9482E_E188_6A62_41DF_7555B9D1FEA4.text = Printing Room
+QuadHotspotPanoramaOverlayTextImage_F49795D6_E597_1595_41D7_D25ABDBB2489.text = Small Guest Room
+HotspotPanoramaOverlayTextImage_F4A39932_E5B8_FAAD_41E9_F806CDFA5F89.text = Sales Department
+HotspotPanoramaOverlayTextImage_F0E4F6E7_E5BB_37B3_41EA_63B49A30713E.text = Sales Department
+QuadHotspotPanoramaOverlayTextImage_B42619EA_E198_2DE2_41CE_3A0E03249705.text = Quality Control Department
+HotspotPanoramaOverlayTextImage_CA9866B5_E18B_E661_41E3_A1A6433D9FD9.text = Quality Control Department
+QuadHotspotPanoramaOverlayTextImage_B3DEEB1F_E198_2E22_41E1_F799961E1EFD.text = Planning Office
+HotspotPanoramaOverlayTextImage_AE02BFF5_E1B8_65E7_41E0_62CA3D7627B9.text = Planning Department: Responsible for management tasks, meetings, production planning based on orders and factory capacity, and preparing production plans.
+QuadHotspotPanoramaOverlayTextImage_B95E2C48_E198_2A2E_41E8_D833121FF80D.text = Sewing Room
+QuadHotspotPanoramaOverlayTextImage_B1ACAD47_E188_6A22_41E5_D4C24ACC8C34.text = Sewing Room
+QuadHotspotPanoramaOverlayTextImage_B125CCB3_E198_2A62_41EA_BF7D9220AAD6.text = Sample Room
+HotspotPanoramaOverlayTextImage_AB766809_E1B8_EA2F_41C0_8C0E7F2C5ED5.text = Sample Room: Showcasing products, welcoming visitors, and conducting quality checks on sample and mass production items.
+QuadHotspotPanoramaOverlayTextImage_F5C39D8D_E599_1A77_41D6_4698142485EE.text = Deputy Director's Office
+QuadHotspotPanoramaOverlayTextImage_3E1F2471_E378_FAFE_41D9_8D923D50FB93.text = Deputy Director's Office
+QuadHotspotPanoramaOverlayTextImage_EA660555_E589_6A96_41E5_7571816DAA37.text = Interview Room
+QuadHotspotPanoramaOverlayTextImage_F4EA6A4A_E5BB_3EFD_41DD_529E0E5AD52F.text = Common Room
+HotspotPanoramaOverlayTextImage_AF0A1F7B_E1B8_26E2_41E7_6304D2112120.text = The production department is responsible for organizing, managing, and overseeing the entire production process.
+QuadHotspotPanoramaOverlayTextImage_EA7482E2_E589_2FAD_41EA_6F8FBE6FC1D7.text = General Director's Office
+QuadHotspotPanoramaOverlayTextImage_86BD5D89_E198_6A2E_41E9_049AD3CD6186.text = After being sorted, defective garments in production are handled by the company through either repair or disposal.
+QuadHotspotPanoramaOverlayTextImage_B1F1A0FC_E188_1BE6_41E8_16CE7D453A9A.text = WEAVING FACTORY
 
 ## Media
 
@@ -179,83 +179,83 @@ imlevel_42E949B5_77C3_109E_41B1_452538D3AF2F.url = media/panorama_C5506DE0_CE7F_
 imlevel_4579CB24_77C3_11BE_41D4_9672E195E01B.url = media/panorama_C55A36A0_CE60_7C9D_41E3_C8B6317987E7_HS_un0cgy6c_en.webp
 imlevel_4211E130_77C3_F195_41CB_F8ADDB07925D.url = media/panorama_D95364A7_E1B8_FA63_41E6_58BCBB91CD2D_HS_11l531qj_en.webp
 imlevel_421321BD_77C3_F08E_41BB_940E1A2E2D78.url = media/panorama_D95364A7_E1B8_FA63_41E6_58BCBB91CD2D_HS_gvup1lj1_en.webp
-imlevel_754D1CF1_32D2_FBEA_41C7_C0571229E832.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_en_0_0.png
-imlevel_754D3CF2_32D2_FBEE_41AD_E6B23C23D336.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_en_0_1.png
-imlevel_754D4CF2_32D2_FBEE_41AF_7DC2C3B6BD00.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_en_0_2.png
-imlevel_754D7CF3_32D2_FBEE_41A5_AFEFE446FE1B.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_en_0_3.png
-imlevel_754DCCE1_32D2_FBEB_41C4_A4AB46EF61AC.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_en_0_0.png
-imlevel_754DECE2_32D2_FBE9_41C0_2115D4BE8D49.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_en_0_1.png
-imlevel_754EECE2_32D2_FBE9_41C6_0471525041AE.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_en_0_2.png
-imlevel_754EFCE3_32D2_FBEF_41C9_015D6EB1BCFF.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_en_0_3.png
+imlevel_6B3639D6_3356_3DD6_41B2_00649EBC3B6B.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_en_0_0.png
+imlevel_6B3619D6_3356_3DD6_41BC_DAF9E45EBAEC.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_en_0_1.png
+imlevel_6B3659D7_3356_3DD6_41C5_97C41873805E.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_en_0_2.png
+imlevel_6B37A9D7_3356_3DD6_41C6_F384E1099B80.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_en_0_3.png
+imlevel_6B3639C6_3356_3A36_41A3_1DF97B8615ED.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_en_0_0.png
+imlevel_6B3519C7_3356_3A36_41A7_7E00B3321CE2.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_en_0_1.png
+imlevel_6B3569C7_3356_3A36_41C0_A2FEA693306B.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_en_0_2.png
+imlevel_6B3549C7_3356_3A36_41C5_9025B656F139.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_en_0_3.png
 
 ### Popup Image
 
 ### Title
+panorama_C54C59F5_CE7F_B464_41E9_26586045322A.label = Main Gate
 panorama_C4A247CE_CE7F_9CA4_41E4_CDD6E80DC307.label = 2nd Floor's Corridor - 1
 panorama_C5506DE0_CE7F_EC9D_41DB_B8080AEEEE56.label = 2nd Floor's Corridor - 2
-panorama_C4A9538B_CE7F_F4AC_41CF_826A167FEC47.label = Deputy Director's Office
+panorama_C4B9F267_CE7F_9463_41D5_116A229587F5.label = Reception Area
+panorama_C4A9F53E_CE7F_9DE4_41B7_AD82B11CF21B.label = Office Area
+panorama_1B2EF2F0_2632_9CB2_4148_F9755C6D4530.label = Máy tráng ghép
+panorama_B46F5D94_BE20_FD6F_4193_5DCC87E08E97.label = Warehouse
+panorama_B46E07A7_BE20_ECAA_41D9_9FEEEB180136.label = Warehouse - 2
+panorama_B472D39C_BE20_A49F_41E6_655DB0EFBCE2.label = Weaving Factory
+panorama_B474A54C_BE20_EDFF_41D9_5969051AD00D.label = Weaving Factory 2
 panorama_B47FFBC9_BE20_A4F9_41D7_6EF8B1E051C6.label = Factory
 panorama_B40DC3C3_BE20_A4E9_41A9_EC1D14E4969E.label = Factory 2
 panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99.label = Factory 3
-panorama_C4AA2F54_CE7F_EDA5_41E9_5F8D098E7423.label = Finance and Accounting department
 panorama_C5525B2E_CE7F_95E5_41D6_78ECEE0CF041.label = General Director's room
-panorama_C4A73960_CE7F_F59D_41E3_8090D5C0A1D9.label = Interview Room
-panorama_C54C59F5_CE7F_B464_41E9_26586045322A.label = Main Gate
 panorama_C4AE218B_CE7F_B4A3_41D9_B09CE3C4E72D.label = Meeting room on 1st floor
-panorama_1B2EF2F0_2632_9CB2_4148_F9755C6D4530.label = Máy tráng ghép
-panorama_C4A9F53E_CE7F_9DE4_41B7_AD82B11CF21B.label = Office Area
-panorama_C55A36A0_CE60_7C9D_41E3_C8B6317987E7.label = Overall View
 panorama_B466748D_BE20_A379_41E0_A1B3A026A0C9.label = Printing room
 panorama_B4686E9C_BE20_9C9E_41E6_CA96902695D9.label = Printing room - 2
 panorama_B462302B_BE20_A3B9_41E7_A42859450DC1.label = Printing room - 3
 panorama_B46755AF_BE20_6CB9_41E3_582B6AA58532.label = Quality Control Department
-panorama_C4B9F267_CE7F_9463_41D5_116A229587F5.label = Reception Area
 panorama_D95364A7_E1B8_FA63_41E6_58BCBB91CD2D.label = Sewing Room
-panorama_B46F5D94_BE20_FD6F_4193_5DCC87E08E97.label = Warehouse
-panorama_B46E07A7_BE20_ECAA_41D9_9FEEEB180136.label = Warehouse - 2
+panorama_C4A9538B_CE7F_F4AC_41CF_826A167FEC47.label = Deputy Director's Office
+panorama_C4A73960_CE7F_F59D_41E3_8090D5C0A1D9.label = Interview Room
+panorama_C4AA2F54_CE7F_EDA5_41E9_5F8D098E7423.label = Finance and Accounting department
+panorama_C55A36A0_CE60_7C9D_41E3_C8B6317987E7.label = Overall View
 panorama_C4B58E9F_CE60_6CA3_41D2_819A88B36B3A.label = Warehouse's Overall View
-panorama_B472D39C_BE20_A49F_41E6_655DB0EFBCE2.label = Weaving Factory
-panorama_B474A54C_BE20_EDFF_41D9_5969051AD00D.label = Weaving Factory 2
 
 ## Popup
 
 ### Title
-window_725C5EEB_73E9_1AAA_41D1_781713BC5B22.title = 8-COLORS ROTOGRAVURE PRINTER
-window_72462357_73D9_2BFA_41C4_78881D232275.title = 8-COLORS ROTOGRAVURE PRINTER
-window_C26C5DC4_70DF_FEDE_41C1_D48AC0E232D2.title = AUTOMATIC CUTTING MACHINE
-window_5EC82A0A_731E_3E90_41CB_40F0B1B60BD9.title = BSCI
 window_72898E92_736B_FD7A_41D7_AB1655FA88BD.title = BSCI
+window_5EC82A0A_731E_3E90_41CB_40F0B1B60BD9.title = BSCI
+window_5EC3A998_731E_3DB0_41D2_A2A2B3C0C4B7.title = GRS
+window_7289CE18_736B_7D76_41DB_51B53B033665.title = GRS
+window_7257873B_73E7_EBAA_41B0_E4B34997DE4D.title = SEMI-FINISHED CUTTING MACHINE
+window_C26C5DC4_70DF_FEDE_41C1_D48AC0E232D2.title = AUTOMATIC CUTTING MACHINE
+window_6BDBCDFE_7316_3570_41D5_30CA99DF3C7F.title = WEAVING MACHINE
+window_72462357_73D9_2BFA_41C4_78881D232275.title = 8-COLORS ROTOGRAVURE PRINTER
+window_725C5EEB_73E9_1AAA_41D1_781713BC5B22.title = 8-COLORS ROTOGRAVURE PRINTER
+window_724E91CD_73E9_E6E9_41BA_D6ED34377C35.title = PP EXTRUSION MACHINES
+window_6A37951B_7312_2AB0_41D2_79A2561E4823.title = PP EXTRUSION MACHINES
+window_724C30A2_73E9_255A_41DA_33767544A09A.title = PP EXTRUSION MACHINES
 window_1A19358A_2632_6556_41C2_86903F9F2B73.title = DOUBLE-HEAD COATING MACHINE
 window_725687DC_73F9_EAEE_41C5_CB6F0A9BF720.title = DOUBLE-HEAD COATING MACHINE
-window_7289CE18_736B_7D76_41DB_51B53B033665.title = GRS
-window_5EC3A998_731E_3DB0_41D2_A2A2B3C0C4B7.title = GRS
 window_7284CD04_7359_7F5E_41B5_6BDDEDAE8AF2.title = OFFICE
-window_724E91CD_73E9_E6E9_41BA_D6ED34377C35.title = PP EXTRUSION MACHINES
-window_724C30A2_73E9_255A_41DA_33767544A09A.title = PP EXTRUSION MACHINES
-window_6A37951B_7312_2AB0_41D2_79A2561E4823.title = PP EXTRUSION MACHINES
-window_7257873B_73E7_EBAA_41B0_E4B34997DE4D.title = SEMI-FINISHED CUTTING MACHINE
-window_6BDBCDFE_7316_3570_41D5_30CA99DF3C7F.title = WEAVING MACHINE
 
 ## Skin
 
 ### Button
 Button_6FB385AF_70E8_EEAA_4192_C461B339A968.label = BSCI
 Button_14AAB271_05AA_638D_4192_6E6E27FD589B.label = BSCI
-Button_5C4A4B79_7159_1BB6_41DB_9AC120038CBE.label = Created by DVAT.com.vn
-Button_59ADE41B_70A9_2D6A_41D5_BBEF8F3E5D21.label = FACTORY
-Button_D0EC1E45_E774_4139_41C2_75EAAF7B1BFF.label = FACTORY
 Button_6F8E3332_70E8_EBBA_41BE_3A2D874E1CB8.label = GRS
 Button_1549239F_05AA_60B5_4188_B2697925B0E1.label = GRS
 Button_6E251E8C_70EF_1D6E_41C4_60D5DA9533A6.label = ISO 9001:2015
 Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = ISO 9001:2015
-Button_59AE041C_70A9_2D6E_41DA_B1144E89366B.label = OFFICE
-Button_C2ECC238_E6D5_C157_41E0_D7F4E8669F7E.label = OFFICE
-Button_C2EB7237_E6D5_C159_41D1_8C25CE8B594E.label = OVERALL VIEW
-Button_59AD841B_70A9_2D6A_41D9_3B04C3A275E3.label = OVERALL VIEW
 Button_C2ECA238_E6D5_C157_41C5_C4D00B5BC73A.label = WAREHOUSE
 Button_59AE241B_70A9_2D6A_41D4_F6CEC63A0E9B.label = WAREHOUSE
-Button_59ADC41B_70A9_2D6A_41D6_097D16A79AD2.label = WEAVING FACTORY
+Button_D0EC1E45_E774_4139_41C2_75EAAF7B1BFF.label = FACTORY
+Button_59ADE41B_70A9_2D6A_41D5_BBEF8F3E5D21.label = FACTORY
 Button_C2ECF238_E6D5_C157_41E0_D7C6FB6C7AA6.label = WEAVING FACTORY
+Button_59ADC41B_70A9_2D6A_41D6_097D16A79AD2.label = WEAVING FACTORY
+Button_C2EB7237_E6D5_C159_41D1_8C25CE8B594E.label = OVERALL VIEW
+Button_59AD841B_70A9_2D6A_41D9_3B04C3A275E3.label = OVERALL VIEW
+Button_5C4A4B79_7159_1BB6_41DB_9AC120038CBE.label = Created by DVAT.com.vn
+Button_59AE041C_70A9_2D6E_41DA_B1144E89366B.label = OFFICE
+Button_C2ECC238_E6D5_C157_41E0_D7F4E8669F7E.label = OFFICE
 
 ### Image
 Image_2025B3C4_314E_2E29_41A9_16953E0B4C83.url = skin/Image_2025B3C4_314E_2E29_41A9_16953E0B4C83_en.png
@@ -264,43 +264,43 @@ Image_59AD441B_70A9_2D6A_41C4_F79B7C49CFCE.url = skin/Image_59AD441B_70A9_2D6A_4
 Image_C2EB4237_E6D5_C159_41C1_19A2D283E20D.url = skin/Image_C2EB4237_E6D5_C159_41C1_19A2D283E20D_en.png
 
 ### Label
-Label_3A219675_29AD_FF5F_41C0_9A5E04B435B0.text = BOPP Printed
 Label_158768B2_05AE_E08C_4182_8E34C42120E6.text = CERTIFICATIONS
-Label_215B55B8_00E4_A9C0_4153_48BF29F96BCC.text = Created by DVAT.com.vn
+Label_227B3C33_31D2_1A6F_41C7_E17452843ACB.text = Cutting
 Label_3DC7D19F_29DE_B5CB_41BF_03A8D4F48133.text = Cutting
-Label_3A77E135_29AE_92DF_41BC_233840FA51F6.text = Cylinder
-Label_227B3C33_31D2_1A6F_41C7_E17452843ACB.text = Cắt
-Label_2520C796_3132_7656_41BF_D86A29797982.text = Dệt quai
-Label_25C192DE_3132_2FD6_41C4_9A70683FCBFD.text = Dệt sợi
-Label_2587C884_3156_3A2A_41C6_2D4E49EAEDCF.text = Dệt sợi PP Webbing
-Label_3A70F135_29AE_92DF_41C4_3FA12E59BA58.text = Extrusion
+Label_2520C796_3132_7656_41BF_D86A29797982.text = Handle Weaving
 Label_3A1CE018_29AF_72D5_419A_B2B6014BDBF8.text = Handle Weaving
-Label_2533BE6E_3132_16F6_41C5_81B62B1DEB71.text = In màng BOPP
-Label_24D50E6B_3152_16FF_41C6_C04CAE4C06AD.text = Kéo sợi
-Label_3DC6219F_29DE_B5CB_41B9_26B374EFF095.text = Lamination
-Label_25978BF9_3152_3DDA_41C2_30E7BDBD96AA.text = Làm trục in
-Label_234F73A1_31D2_6E6B_4199_7AFF290B81CB.text = May
-Label_3A760135_29AE_92DF_41B0_61A5D305F0C0.text = PP Webbing
-Label_3DC491A0_29DE_B5F5_417F_5285508F0DA4.text = Packing
-Label_3DC4F1A0_29DE_B5F5_419A_733808AB635A.text = Sewing
-Label_229A1240_31D2_2E2A_41BC_03D3C18D5E23.text = Tráng màng
+Label_25C192DE_3132_2FD6_41C4_9A70683FCBFD.text = Weaving
 Label_3DAAF1C4_29AA_95BD_41B2_E4130BCC4329.text = Weaving
+Label_3A760135_29AE_92DF_41B0_61A5D305F0C0.text = PP Webbing
+Label_2587C884_3156_3A2A_41C6_2D4E49EAEDCF.text = PP Webbing
+Label_3A219675_29AD_FF5F_41C0_9A5E04B435B0.text = BOPP Printed
+Label_2533BE6E_3132_16F6_41C5_81B62B1DEB71.text = BOPP Printed
+Label_3A70F135_29AE_92DF_41C4_3FA12E59BA58.text = Extrusion
+Label_24D50E6B_3152_16FF_41C6_C04CAE4C06AD.text = Extrusion
+Label_3A77E135_29AE_92DF_41BC_233840FA51F6.text = Cylinder
+Label_25978BF9_3152_3DDA_41C2_30E7BDBD96AA.text = Cylinder
+Label_3DC4F1A0_29DE_B5F5_419A_733808AB635A.text = Sewing
+Label_234F73A1_31D2_6E6B_4199_7AFF290B81CB.text = Sewing
+Label_3DC6219F_29DE_B5CB_41B9_26B374EFF095.text = Lamination
+Label_229A1240_31D2_2E2A_41BC_03D3C18D5E23.text = Lamination
+Label_215B55B8_00E4_A9C0_4153_48BF29F96BCC.text = Created by DVAT.com.vn
 Label_FA24A730_E6F5_CF57_41C9_C62270ACEA04.text = {{title}}
-Label_23D4CE76_31DE_16D6_41AD_F45A3A1835EF.text = Đóng gói
+Label_3DC491A0_29DE_B5F5_417F_5285508F0DA4.text = Packing
+Label_23D4CE76_31DE_16D6_41AD_F45A3A1835EF.text = Packing
 
 ### Multiline Text
 HTMLText_3D340FE0_295B_6D75_4191_36C599D3DAA7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:13px;font-family:'Open Sans Light';">The closed-loop production process from raw materials to finished products ensures consistent product quality. In addition, all production stages are carried out entirely by modern, highly automated machinery, which increases labor productivity, minimizes errors, and ensures worker safety. Furthermore, each production stage is subject to strict quality control, ensuring that the product meets high-quality standards before leaving the factory.</SPAN></SPAN></DIV></div>
-HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.108396946564886vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.11vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.8524173027989805vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#66ccff;font-size:5.85vmin;font-family:'Open Sans';"><B>DISCOVER WEPAC</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.41vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.71vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">With over 7 years of experience in producing reusable shopping bags, we believe that small actions can lead to significant change. That’s why we focus on creating bags that are not only convenient but also sustainable and eco-friendly. Each of our bags is designed for long-term use, helping to reduce plastic waste and minimize environmental impact.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.71vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">With WEPAC, you receive quality products while contributing to a greener world. Let’s make a difference together, for a sustainable future for everyone.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.71vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Founded: 2017</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Total Area: 2.8 hectares</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Number of Workers: 500+</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Number of Factories: 3</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Total Revenue (2023): $19 million</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Total Output: 6 million bags/month</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Address: Dong Tu Industrial Cluster, Hung Ha Town, Hung Ha District, Thai Binh Province, Vietnam</SPAN></SPAN></DIV></div>
 HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Open Sans';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Open Sans ExtraBold';"><B>PANORAMAS</B></SPAN><SPAN STYLE="font-size:5.14vh;font-family:'Open Sans';">:</SPAN></SPAN></DIV></div>
 HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';"><B>___</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7777777777777777vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.78vmin;"><B>WEPAC Joint Stock Company</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.65vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6538037486218302vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vmin;">• Email: info@wepac.vn  </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.6538037486218302vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vmin;">• Phone: (+84) 96 806 1122  </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.6538037486218302vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vmin;">• Address: Dong Tu Industrial Cluster, Hung Ha Town, Hung Ha District, Thai Binh Province, Vietnam  </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.65vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.410143329658213vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#66ccff;font-size:4.41vmin;font-family:'Open Sans';"><B>DISCOVER WEPAC</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.54vmin;">With over 7 years of experience in producing reusable shopping bags, we believe that small actions can lead to significant change. That’s why we focus on creating bags that are not only convenient but also sustainable and eco-friendly. Each of our bags is designed for long-term use, helping to reduce plastic waste and minimize environmental impact.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.54vmin;">With WEPAC, you receive quality products while contributing to a greener world. Let’s make a difference together, for a sustainable future for everyone.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Founded: 2017</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Total Area: 2.8 hectares</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Number of Workers: 500+</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Number of Factories: 3</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Total Revenue (2023): $19 million</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Total Output: 6 million bags/month</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Address: Dong Tu Industrial Cluster, Hung Ha Town, Hung Ha District, Thai Binh Province, Vietnam</SPAN></SPAN></DIV></div>
 HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
-HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.410143329658213vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#66ccff;font-size:4.41vmin;font-family:'Open Sans';"><B>DISCOVER WEPAC</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.54vmin;">With over 7 years of experience in producing reusable shopping bags, we believe that small actions can lead to significant change. That’s why we focus on creating bags that are not only convenient but also sustainable and eco-friendly. Each of our bags is designed for long-term use, helping to reduce plastic waste and minimize environmental impact.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.54vmin;">With WEPAC, you receive quality products while contributing to a greener world. Let’s make a difference together, for a sustainable future for everyone.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Founded: 2017</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Total Area: 2.8 hectares</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Number of Workers: 500+</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Number of Factories: 3</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Total Revenue (2023): $19 million</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Total Output: 6 million bags/month</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">• Address: Dong Tu Industrial Cluster, Hung Ha Town, Hung Ha District, Thai Binh Province, Vietnam</SPAN></SPAN></DIV></div>
 HTMLText_3A2EC87E_2956_F34D_41AF_A285483294C2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:50px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:50px;font-family:'Open Sans SemiBold';"><B>Production</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:50px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:50px;font-family:'Open Sans SemiBold';"><B>Process</B></SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.108396946564886vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.11vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.8524173027989805vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#66ccff;font-size:5.85vmin;font-family:'Open Sans';"><B>DISCOVER WEPAC</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.41vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.71vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">With over 7 years of experience in producing reusable shopping bags, we believe that small actions can lead to significant change. That’s why we focus on creating bags that are not only convenient but also sustainable and eco-friendly. Each of our bags is designed for long-term use, helping to reduce plastic waste and minimize environmental impact.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.71vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">With WEPAC, you receive quality products while contributing to a greener world. Let’s make a difference together, for a sustainable future for everyone.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.71vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Founded: 2017</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Total Area: 2.8 hectares</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Number of Workers: 500+</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Number of Factories: 3</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Total Revenue (2023): $19 million</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Total Output: 6 million bags/month</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0356234096692107vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vmin;">• Address: Dong Tu Industrial Cluster, Hung Ha Town, Hung Ha District, Thai Binh Province, Vietnam</SPAN></SPAN></DIV></div>
 HTMLText_6F460D77_70EF_7FBA_4190_E445B2A2B4D7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.859374999999993vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#66ccff;font-size:5.86vmin;font-family:'Open Sans';"><B>CERTIFICATIONS</B></SPAN></SPAN></DIV></div>
-HTMLText_276C97B1_3172_366B_41AE_CDCE34DC7DA6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:28px;font-family:'Open Sans';"><B>Quy trình</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:28px;font-family:'Open Sans';"><B>sản xuất</B></SPAN></SPAN></DIV></div>
+HTMLText_276C97B1_3172_366B_41AE_CDCE34DC7DA6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:28px;font-family:'Open Sans';"><B>Production</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:28px;font-family:'Open Sans';"><B>Process</B></SPAN></SPAN></DIV></div>
 HTMLText_3AE082D4_29AB_975D_41B7_7C91B00638D8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.5358324145534734vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.54vh;font-family:'Open Sans Light';">We work</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:2.5358324145534734vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#4a8ecc;font-size:2.54vh;font-family:'Open Sans';">wholeheartedly</SPAN><SPAN STYLE="font-size:2.54vh;font-family:'Open Sans Light';"> and</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:2.5358324145534734vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#4a8ecc;font-size:2.54vh;font-family:'Open Sans';">professionally</SPAN><SPAN STYLE="font-size:2.54vh;font-family:'Open Sans Light';"> in</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:2.5358324145534734vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.54vh;font-family:'Open Sans Light';">our field.</SPAN></SPAN></DIV></div>
-HTMLText_221AF7A6_3152_1676_41C5_FD7809229E6B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;font-family:'Open Sans Light';"><B>Chúng tôi luôn</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;font-family:'Open Sans Light';"><B>Làm việc </B></SPAN><SPAN STYLE="color:#4a8ecc;font-size:13px;font-family:'Open Sans Light';"><B>tận tâm</B></SPAN><SPAN STYLE="font-size:13px;font-family:'Open Sans Light';"><B> và</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#4a8ecc;font-size:13px;font-family:'Open Sans Light';"><B>Chuyên nghiệp</B></SPAN><SPAN STYLE="font-size:13px;font-family:'Open Sans Light';"><B> trong</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;font-family:'Open Sans Light';"><B>quá trình sản xuất</B></SPAN></SPAN></DIV></div>
+HTMLText_221AF7A6_3152_1676_41C5_FD7809229E6B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;font-family:'Open Sans Light';">We work</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#4a8ecc;font-size:13px;font-family:'Open Sans';">wholeheartedly</SPAN><SPAN STYLE="font-size:13px;font-family:'Open Sans Light';"> and</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#4a8ecc;font-size:13px;font-family:'Open Sans';">professionally</SPAN><SPAN STYLE="font-size:13px;font-family:'Open Sans Light';"> in</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;font-family:'Open Sans Light';">our field.</SPAN></SPAN></DIV></div>
 
 ## Tour
 
