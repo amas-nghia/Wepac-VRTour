@@ -37,8 +37,8 @@
   }
  ],
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "name": "Wepac",
  "start_url": "index.htm",
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF"
 }
