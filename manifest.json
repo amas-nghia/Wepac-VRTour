@@ -36,9 +36,9 @@
    "type": "image/png"
   }
  ],
- "display": "fullscreen",
- "name": "Wepac",
  "start_url": "index.htm",
- "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF"
+ "display": "fullscreen",
+ "theme_color": "#FFFFFF",
+ "name": "Wepac",
+ "background_color": "#FFFFFF"
 }

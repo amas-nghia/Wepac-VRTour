@@ -11,42 +11,52 @@ PopupPDFBehaviour_5EC2D998_731E_3DB1_41DA_E75655F876C3.url = files/WEPAC-GRS-202
 ### URL
 LinkBehaviour_2226C7AA_00EC_69C1_414E_E5AAD2C2AC2C.source = https://dvat.com.vn/
 LinkBehaviour_5AEDB3C9_7159_EAD6_41CB_C9DBAF386817.source = https://dvat.com.vn/
-LinkBehaviour_419E3FC5_7167_1ADE_41BB_5478A7D98201.source = https://wepac.vn/
 LinkBehaviour_2647C447_05FA_2794_4180_0E8091458032.source = https://wepac.vn/
+LinkBehaviour_419E3FC5_7167_1ADE_41BB_5478A7D98201.source = https://wepac.vn/
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2598.770123800444!2d106.20424664363534!3d20.594931942591664!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135e96f33f71b35%3A0xab975a24da481348!2zQ8O0bmcgdHkgY-G7lSBwaOG6p24gV0VQQUM!5e1!3m2!1svi!2sus!4v1730456142863!5m2!1svi!2sus
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3090.462704803385!2d106.204045!3d20.595584!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135e96f33f71b35%3A0xab975a24da481348!2zQ8O0bmcgdHkgY-G7lSBwaOG6p24gV0VQQUM!5e1!3m2!1svi!2sus!4v1732866790477!5m2!1svi!2sus
-PopupWebFrameBehaviour_72430136_73D8_E7BA_418C_04CC37E50BEE.url = //www.youtube.com/embed/3uCdxMYSdO8?v=3uCdxMYSdO8
-PopupWebFrameBehaviour_7244B1FB_73D9_26AA_41B4_4E6111628A5D.url = //www.youtube.com/embed/8yzxQsPaqeI?v=8yzxQsPaqeI
-PopupWebFrameBehaviour_3EFBEF12_2A7A_27C8_41C3_87330A31A241.url = //www.youtube.com/embed/3uCdxMYSdO8
 PopupWebFrameBehaviour_067555C6_3132_2A29_41A9_AC085E2559D8.url = //www.youtube.com/embed/3uCdxMYSdO8
-PopupWebFrameBehaviour_1A19C589_2632_6552_41B0_8A011B1CE23C.url = //www.youtube.com/embed/7E3z-5zrzT0
-PopupWebFrameBehaviour_098166BA_313E_1659_41BF_83D3C62C176D.url = //www.youtube.com/embed/7E3z-5zrzT0
+PopupWebFrameBehaviour_3EFBEF12_2A7A_27C8_41C3_87330A31A241.url = //www.youtube.com/embed/3uCdxMYSdO8
+WebFrame_29924DE8_4AD3_6444_41CD_ECDEBCD28991.url = //www.youtube.com/embed/3uCdxMYSdO8
+WebFrame_54501784_4B33_24CD_41D2_63626F56198E_mobile.url = //www.youtube.com/embed/3uCdxMYSdO8
+WebFrame_54419FBB_4B3F_24C4_41A8_B2B654F92409_mobile.url = //www.youtube.com/embed/7E3z-5zrzT0
 PopupWebFrameBehaviour_3F41F9AB_2A7E_2AD8_41B4_1E686B99AC96.url = //www.youtube.com/embed/7E3z-5zrzT0
-PopupWebFrameBehaviour_725687DD_73F9_EAEE_41C0_7671E15EC02E.url = //www.youtube.com/embed/7E3z-5zrzT0
-PopupWebFrameBehaviour_3EFD5C57_2A7E_EA48_41BE_46F804D958DF.url = //www.youtube.com/embed/8yzxQsPaqeI
+PopupWebFrameBehaviour_098166BA_313E_1659_41BF_83D3C62C176D.url = //www.youtube.com/embed/7E3z-5zrzT0
+WebFrame_1405CDD7_4AD1_244C_419F_9EC86C1B041E.url = //www.youtube.com/embed/7E3z-5zrzT0
 PopupWebFrameBehaviour_0929B3EC_313E_6DF9_41C8_4085BDF287BF.url = //www.youtube.com/embed/8yzxQsPaqeI
-PopupWebFrameBehaviour_3257F9E1_2A76_EA48_41C1_AF0588766E15.url = //www.youtube.com/embed/HZ2ShszhfU4
+WebFrame_2949E5F3_4AD3_6444_41CE_EB3B79013F0E.url = //www.youtube.com/embed/8yzxQsPaqeI
+PopupWebFrameBehaviour_3EFD5C57_2A7E_EA48_41BE_46F804D958DF.url = //www.youtube.com/embed/8yzxQsPaqeI
+WebFrame_1A5D5BCA_4AF1_2C45_41D0_8BFAA5567187.url = //www.youtube.com/embed/HZ2ShszhfU4
+WebFrame_54A7429E_4B31_1CFD_41C9_38A0D92AF56E_mobile.url = //www.youtube.com/embed/HZ2ShszhfU4
 PopupWebFrameBehaviour_092EDEA3_313E_166E_4167_97269A0FE50F.url = //www.youtube.com/embed/HZ2ShszhfU4
+PopupWebFrameBehaviour_3257F9E1_2A76_EA48_41C1_AF0588766E15.url = //www.youtube.com/embed/HZ2ShszhfU4
 PopupWebFrameBehaviour_3998624E_2A76_1E58_41A9_45B3C843F246.url = //www.youtube.com/embed/IFy5SJ4yDM0
-PopupWebFrameBehaviour_724E91CD_73E9_E6E9_41D9_E0B81417FD2F.url = //www.youtube.com/embed/IFy5SJ4yDM0
 PopupWebFrameBehaviour_06EAFF46_313E_1629_41A9_E95A6E91C193.url = //www.youtube.com/embed/IFy5SJ4yDM0
+WebFrame_03C769C3_4AF3_EC4B_41C7_A18497DA7C73.url = //www.youtube.com/embed/IFy5SJ4yDM0
+WebFrame_513BEF60_4AD7_2444_41CA_39CBEF903D74_mobile.url = //www.youtube.com/embed/IFy5SJ4yDM0
 WebFrame_5274646D_70A7_2DAE_41D7_94410507CABD.url = //www.youtube.com/embed/Na4WLifbVDI
 WebFrame_F6C23B02_E6AC_473B_41EA_F0E6B25500E5.url = //www.youtube.com/embed/Na4WLifbVDI
-PopupWebFrameBehaviour_72462358_73D9_2BF6_41BD_875141ABF15B.url = //www.youtube.com/embed/OGN8DUyJZLs
-PopupWebFrameBehaviour_725C5EED_73E9_1AAE_41A7_FA061FD16B0A.url = //www.youtube.com/embed/OGN8DUyJZLs
 PopupWebFrameBehaviour_3FB98DCD_2A79_EA58_41A2_D7AE7026674C.url = //www.youtube.com/embed/OGN8DUyJZLs
 PopupWebFrameBehaviour_064D47ED_313E_15FA_419A_26DB2ACDBA10.url = //www.youtube.com/embed/OGN8DUyJZLs
-PopupWebFrameBehaviour_02385F3F_2A6D_EF86_41BD_107CCE27C8EE.url = //www.youtube.com/embed/UD-k0HcdTm8
-PopupWebFrameBehaviour_724C30A2_73E9_255A_41DB_9F69DC421F3F.url = //www.youtube.com/embed/UD-k0HcdTm8
+WebFrame_3D8D88E6_4AD3_6C4C_41C4_672E45B70C51.url = //www.youtube.com/embed/OGN8DUyJZLs
+WebFrame_560E27EB_4AD0_E444_41CB_81DDD014BDC2_mobile.url = //www.youtube.com/embed/OGN8DUyJZLs
+WebFrame_01B01388_4AFF_1CC4_41D0_4FC0D43732C9.url = //www.youtube.com/embed/UD-k0HcdTm8
 PopupWebFrameBehaviour_09C956D1_313E_762A_41C6_02711BEDF535.url = //www.youtube.com/embed/UD-k0HcdTm8
-PopupWebFrameBehaviour_6A36E51C_7312_2AB0_41B9_AFA118B91D40.url = //www.youtube.com/embed/UD-k0HcdTm8
-PopupWebFrameBehaviour_7284CD04_7359_7F5E_41DB_0CB8BF565003.url = //www.youtube.com/embed/c1kdgrG2Giw
+PopupWebFrameBehaviour_02385F3F_2A6D_EF86_41BD_107CCE27C8EE.url = //www.youtube.com/embed/UD-k0HcdTm8
+WebFrame_6F509619_4B51_67C4_41CB_0A8ADBF62A55_mobile.url = //www.youtube.com/embed/UD-k0HcdTm8
+WebFrame_1A0AF358_4AF3_3C44_41CD_FC5FD1B8655E.url = //www.youtube.com/embed/USd8SA3np-Y
+WebFrame_54472084_4B3F_3CCC_41BF_61C17CE032CA_mobile.url = //www.youtube.com/embed/c1kdgrG2Giw
+WebFrame_5435FEC7_4B3F_244C_41C9_723F13BD981B_mobile.url = //www.youtube.com/embed/eqhpcniyeAI
 PopupWebFrameBehaviour_3F2828F2_2A7A_6A48_41C1_A09F1C6543A1.url = //www.youtube.com/embed/hJmZF9KSfPI
 PopupWebFrameBehaviour_068A43CB_313E_2E3F_41BA_D4A252BA50B9.url = //www.youtube.com/embed/hJmZF9KSfPI
-PopupWebFrameBehaviour_1D52B06E_3AE7_CB8F_41CA_10C79C1DF242.url = //www.youtube.com/embed/hJmZF9KSfPI
-PopupWebFrameBehaviour_C272CDC5_70DF_FEDE_41CE_AD157BF616B2.url = //www.youtube.com/embed/hJmZF9KSfPI
-PopupWebFrameBehaviour_6BDAFDFE_7316_3570_41DB_9A2E63078745.url = //www.youtube.com/embed/i3tIJhLNxQk
-PopupWebFrameBehaviour_7257873D_73E7_EBAE_41CA_0118BCC58713.url = //www.youtube.com/embed/xxPFGNFV-X8
+WebFrame_10510C01_4AEF_6BC4_41C6_2539E514E44C.url = //www.youtube.com/embed/i3tIJhLNxQk
+WebFrame_54229C78_4B3F_2444_41C9_65518B69F466_mobile.url = //www.youtube.com/embed/i3tIJhLNxQk
+WebFrame_21B34CA4_4AD7_E4CC_41C5_8E4F6C9A8693.url = //www.youtube.com/embed/quL0yn8OhQE
+WebFrame_143F8B20_4AD1_2DC5_41C9_9E9A5CFB7240.url = //www.youtube.com/embed/xYzPZUfxZy4
+WebFrame_67DBEEAD_4B6F_24DC_41B8_05CCAE32B4A0_mobile.url = //www.youtube.com/embed/xYzPZUfxZy4
+WebFrame_7A2142BB_4B50_FC3B_41C6_2F8B6366B013_mobile.url = //www.youtube.com/embed/xxPFGNFV-X8
+WebFrame_14158CAA_4AD1_24C5_41C3_9DD245F6B738.url = //www.youtube.com/embed/xxPFGNFV-X8
+WebFrame_563FBFE5_4B33_244F_41C9_F5A6797662E2_mobile.url = //www.youtube.com/embed/yNViEa42dZw
 
 ## Hotspot
 
@@ -144,7 +154,7 @@ imlevel_4228883E_77C3_FF8D_41CF_817B38F5260A.url = media/panorama_B472D39C_BE20_
 imlevel_45C87CA6_2B9A_2AC8_41B7_F5A0A9683187.url = media/panorama_B472D39C_BE20_A49F_41E6_655DB0EFBCE2_HS_ok1877nd_vi-VN.webp
 imlevel_44DE4662_2B9E_6648_41C1_A10F999F8354.url = media/panorama_B474A54C_BE20_EDFF_41D9_5969051AD00D_HS_qkiptw39_vi-VN.webp
 imlevel_4188D962_2B9E_6A48_419B_C918506A545A.url = media/panorama_B474A54C_BE20_EDFF_41D9_5969051AD00D_HS_v51k9jho_vi-VN.webp
-imlevel_2EDE3D8B_3A95_1642_41CC_98247B76C068.url = media/panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99_HS_5suq1l1z_vi-VN.webp
+imlevel_54D4FB5C_44EA_4BAF_41CD_ABAE051A67AC.url = media/panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99_HS_5suq1l1z_vi-VN.webp
 imlevel_40C5F1BD_77C3_108E_41CD_755483D58C38.url = media/panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99_HS_8303p8v0_vi-VN.webp
 imlevel_9AE81DEB_3B23_D4B5_41C6_2836F11B46D6.url = media/panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99_HS_9zr4xg9f_vi-VN.webp
 imlevel_40C7D289_77C3_1376_41B1_FED83526F9B7.url = media/panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99_HS_hqezdk2t_vi-VN.webp
@@ -176,14 +186,14 @@ imlevel_42E949B5_77C3_109E_41B1_452538D3AF2F.url = media/panorama_C5506DE0_CE7F_
 imlevel_4579CB24_77C3_11BE_41D4_9672E195E01B.url = media/panorama_C55A36A0_CE60_7C9D_41E3_C8B6317987E7_HS_un0cgy6c_vi-VN.webp
 imlevel_4211E130_77C3_F195_41CB_F8ADDB07925D.url = media/panorama_D95364A7_E1B8_FA63_41E6_58BCBB91CD2D_HS_11l531qj_vi-VN.webp
 imlevel_421321BD_77C3_F08E_41BB_940E1A2E2D78.url = media/panorama_D95364A7_E1B8_FA63_41E6_58BCBB91CD2D_HS_gvup1lj1_vi-VN.webp
-imlevel_7F13ADFE_4413_99F7_41B0_A9A9D31292DD.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_vi-VN_0_0.png
-imlevel_7F11BE00_4413_9A0A_41CD_0A75C9627968.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_vi-VN_0_1.png
-imlevel_7F11AE00_4413_9A0A_41C8_45F97070E16E.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_vi-VN_0_2.png
-imlevel_7F118E01_4413_9A0A_41CB_74A854737842.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_vi-VN_0_3.png
-imlevel_7F11DE0F_4413_9A15_41BE_7C16DCC6E1AD.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_vi-VN_0_0.png
-imlevel_7F11CE0F_4413_9A15_41C4_EB58A136E15E.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_vi-VN_0_1.png
-imlevel_7F102E10_4413_9A0B_41A4_744DE342AF69.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_vi-VN_0_2.png
-imlevel_7F100E10_4413_9A0B_4188_1759DE894A43.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_vi-VN_0_3.png
+imlevel_DADBCDD9_4D2F_2444_4147_DEBF40C52E8F.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_vi-VN_0_0.png
+imlevel_DADBFDDA_4D2F_2444_41C1_E96474CADB78.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_vi-VN_0_1.png
+imlevel_DADB8DDA_4D2F_2444_41C1_7CA18B1A3E82.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_vi-VN_0_2.png
+imlevel_DAD99DDB_4D2F_2444_41C8_9D6850A0A5D6.url = media/zoomImage_1CBB9E97_05DE_60B4_4165_BB2BC5FA7F2C_vi-VN_0_3.png
+imlevel_DADA8DEC_4D2F_245C_41CA_47FD74F58C78.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_vi-VN_0_0.png
+imlevel_DADABDED_4D2F_245C_41CE_AF1DC51BDEB1.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_vi-VN_0_1.png
+imlevel_DADA5DED_4D2F_245C_41CD_FD2073439933.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_vi-VN_0_2.png
+imlevel_DADA7DED_4D2F_245C_41CA_4223ECCD5ADA.url = media/zoomImage_5620F854_70B9_25FE_41C1_B0EEB1ADB31F_vi-VN_0_3.png
 
 ### Popup Image
 
@@ -192,7 +202,6 @@ panorama_C54C59F5_CE7F_B464_41E9_26586045322A.label = Cổng chính
 panorama_C4A247CE_CE7F_9CA4_41E4_CDD6E80DC307.label = Hành lang tầng 2
 panorama_C5506DE0_CE7F_EC9D_41DB_B8080AEEEE56.label = Hành lang tầng 2 - 2
 panorama_C4B9F267_CE7F_9463_41D5_116A229587F5.label = Khu lễ tân
-panorama_1B2EF2F0_2632_9CB2_4148_F9755C6D4530.label = Khu tráng ghép
 panorama_C4A9F53E_CE7F_9DE4_41B7_AD82B11CF21B.label = Khu văn phòng
 panorama_B46F5D94_BE20_FD6F_4193_5DCC87E08E97.label = Nhà kho
 panorama_B46E07A7_BE20_ECAA_41D9_9FEEEB180136.label = Nhà kho - 2
@@ -201,6 +210,7 @@ panorama_B474A54C_BE20_EDFF_41D9_5969051AD00D.label = Nhà máy dệt 2
 panorama_B47FFBC9_BE20_A4F9_41D7_6EF8B1E051C6.label = Nhà xưởng
 panorama_B40DC3C3_BE20_A4E9_41A9_EC1D14E4969E.label = Nhà xưởng 2
 panorama_B4787BC0_BE20_A4E7_41E7_5D5336A5EF99.label = Nhà xưởng 3
+panorama_1B2EF2F0_2632_9CB2_4148_F9755C6D4530.label = Nhà xưởng 4
 panorama_C5525B2E_CE7F_95E5_41D6_78ECEE0CF041.label = Phòng giám đốc
 panorama_C4AE218B_CE7F_B4A3_41D9_B09CE3C4E72D.label = Phòng họp tầng 1
 panorama_B466748D_BE20_A379_41E0_A1B3A026A0C9.label = Phòng in
@@ -217,22 +227,10 @@ panorama_C4B58E9F_CE60_6CA3_41D2_819A88B36B3A.label = Toàn cảnh nhà kho
 ## Popup
 
 ### Title
-window_1D52206F_3AE7_CB8D_41BB_27636E960108.title = AUTOMATIC CUTTING MACHINE
 window_5EC82A0A_731E_3E90_41CB_40F0B1B60BD9.title = BSCI
 window_72898E92_736B_FD7A_41D7_AB1655FA88BD.title = BSCI
-window_5EC3A998_731E_3DB0_41D2_A2A2B3C0C4B7.title = GRS
 window_7289CE18_736B_7D76_41DB_51B53B033665.title = GRS
-window_7257873B_73E7_EBAA_41B0_E4B34997DE4D.title = MÁY CẮT BÁN THÀNH PHẨM
-window_C26C5DC4_70DF_FEDE_41C1_D48AC0E232D2.title = MÁY CẮT MAY IN TỰ ĐỘNG
-window_6BDBCDFE_7316_3570_41D5_30CA99DF3C7F.title = MÁY DỆT
-window_725C5EEB_73E9_1AAA_41D1_781713BC5B22.title = MÁY IN ỐNG ĐỒNG 8 MÀU
-window_72462357_73D9_2BFA_41C4_78881D232275.title = MÁY IN ỐNG ĐỒNG 8 MÀU
-window_6A37951B_7312_2AB0_41D2_79A2561E4823.title = MÁY KÉO SỢI
-window_724C30A2_73E9_255A_41DA_33767544A09A.title = MÁY KÉO SỢI
-window_724E91CD_73E9_E6E9_41BA_D6ED34377C35.title = MÁY KÉO SỢI
-window_1A19358A_2632_6556_41C2_86903F9F2B73.title = MÁY TRÁNG GHÉP 2 ĐẦU
-window_725687DC_73F9_EAEE_41C5_CB6F0A9BF720.title = MÁY TRÁNG GHÉP 2 ĐẦU
-window_7284CD04_7359_7F5E_41B5_6BDDEDAE8AF2.title = VĂN PHÒNG
+window_5EC3A998_731E_3DB0_41D2_A2A2B3C0C4B7.title = GRS
 
 ## Skin
 
@@ -295,7 +293,7 @@ HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left
 HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Open Sans ExtraBold';">KHUNG CẢNH:</SPAN></SPAN></DIV></div>
 HTMLText_3A2EC87E_2956_F34D_41AF_A285483294C2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:50px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:50px;font-family:'Open Sans SemiBold';"><B>Quy trình sản xuất</B></SPAN></SPAN></DIV></div>
 HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:2.79vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.32vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7855153203342624vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.79vmin;font-family:'Bebas Neue Bold';">_________________</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7855153203342624vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.79vmin;font-family:'Open Sans';"><B>Công ty cổ phần WEPAC</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.79vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.32vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9498607242339854vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.95vmin;">  </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9498607242339854vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.95vmin;">• </SPAN><SPAN STYLE="font-size:1.95vmin;"><B> Email:</B></SPAN><SPAN STYLE="font-size:1.95vmin;"> info@wepac.vn</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9498607242339854vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.95vmin;">•  </SPAN><SPAN STYLE="font-size:1.95vmin;"><B>Phone:</B></SPAN><SPAN STYLE="font-size:1.95vmin;"> (+84) 96 806 1122  </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9498607242339854vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.95vmin;">•  </SPAN><SPAN STYLE="font-size:1.95vmin;"><B>Địa chỉ:</B></SPAN><SPAN STYLE="font-size:1.95vmin;"> Cụm công nghiệp Đồng Tu, thị trấn Hưng Hà, huyện Hưng Hà, tỉnh Thái Bình, Việt Nam</SPAN></SPAN></DIV></div>
-HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.097560975609756vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099cc;font-size:6.1vmin;font-family:'Bebas Neue Bold';"><B>_______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.85365853658536vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#66ccff;font-size:5.85vmin;"><B>KHÁM PHÁ WEPAC</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.72vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;">Với hơn 7 năm kinh nghiệm sản xuất các sản phẩm túi mua sắm tái sử dụng, chúng tôi tin rằng mỗi hành động nhỏ đều có thể dẫn đến sự thay đổi đáng kể. Đó là lý do chúng tôi tập trung sản xuất những chiếc túi mua sắm không chỉ tiện lợi mà còn bền vững và thân thiện với môi trường. Mỗi chiếc túi của chúng tôi đều được thiết kế để sử dụng lâu dài, giúp giảm thiểu rác thải nhựa và giảm thiểu tác động tiêu cực đến thiên nhiên.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.07vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.72vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;">Với WEPAC, bạn không chỉ nhận được những sản phẩm chất lượng mà còn góp phần xây dựng một thế giới xanh hơn. Hãy cùng nhau tạo nên sự khác biệt, vì một tương lai bền vững cho tất cả mọi người.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.07vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.72vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Năm thành lập: 2017</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Tổng diện tích: 2,8ha.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Số lượng công nhân: 500+</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Số lượng nhà máy: 3 nhà máy.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Tổng doanh thu (2023): 19 triệu $</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Tổng sản lượng: 6 triệu túi/tháng</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Địa chỉ: Cụm công nghiệp Đồng Tu, thị trấn Hưng Hà, huyện Hưng Hà, tỉnh Thái Bình, Việt Nam</SPAN></SPAN></DIV></div>
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.097560975609756vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099cc;font-size:6.1vmin;font-family:'Bebas Neue Bold';"><B>_______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.8536585365853595vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#66ccff;font-size:5.85vmin;"><B>KHÁM PHÁ WEPAC</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.72vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;">Với hơn 7 năm kinh nghiệm sản xuất các sản phẩm túi mua sắm tái sử dụng, chúng tôi tin rằng mỗi hành động nhỏ đều có thể dẫn đến sự thay đổi đáng kể. Đó là lý do chúng tôi tập trung sản xuất những chiếc túi mua sắm không chỉ tiện lợi mà còn bền vững và thân thiện với môi trường. Mỗi chiếc túi của chúng tôi đều được thiết kế để sử dụng lâu dài, giúp giảm thiểu rác thải nhựa và giảm thiểu tác động tiêu cực đến thiên nhiên.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.07vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.72vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;">Với WEPAC, bạn không chỉ nhận được những sản phẩm chất lượng mà còn góp phần xây dựng một thế giới xanh hơn. Hãy cùng nhau tạo nên sự khác biệt, vì một tương lai bền vững cho tất cả mọi người.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.07vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.72vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Năm thành lập: 2017</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Tổng diện tích: 2,8ha.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Số lượng công nhân: 500+</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Số lượng nhà máy: 3 nhà máy.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Tổng doanh thu (2023): 19 triệu $</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Tổng sản lượng: 6 triệu túi/tháng</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0731707317073154vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vmin;"> •  Địa chỉ: Cụm công nghiệp Đồng Tu, thị trấn Hưng Hà, huyện Hưng Hà, tỉnh Thái Bình, Việt Nam</SPAN></SPAN></DIV></div>
 HTMLText_6F460D77_70EF_7FBA_4190_E445B2A2B4D7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.859374999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#66ccff;font-size:5.86vmin;font-family:'Open Sans';"><B>CHỨNG NHẬN</B></SPAN></SPAN></DIV></div>
 HTMLText_28A0A66A_32B6_076E_41A5_5A8BCCE78581.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10px;font-family:'Open Sans Light';"><B>Quy trình sản xuất khép kín từ nguyên liệu đầu vào đến sản phẩm hoàn thiện đảm bảo chất lượng sản phẩm đồng đều. Bên cạnh đó, toàn bộ các giai đoạn sản xuất đều được thực hiện hoàn toàn bằng máy móc hiện đại, tự động hóa cao, giúp tăng năng suất lao động, giảm thiểu lỗi và đảm bảo an toàn cho người lao động. Đồng thời, mỗi giai đoạn sản xuất đều trải qua quá trình kiểm soát chất lượng nghiêm ngặt, đảm bảo sản phẩm đạt tiêu chuẩn chất lượng cao trước khi xuất xưởng.</B></SPAN></SPAN></DIV></div>
 HTMLText_3AE082D4_29AB_975D_41B7_7C91B00638D8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.3153252480705624vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.32vh;font-family:'Open Sans';">Chúng tôi luôn</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:2.3153252480705624vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.32vh;font-family:'Open Sans';">làm việc </SPAN><SPAN STYLE="color:#4a8ecc;font-size:2.32vh;font-family:'Open Sans';">tận tâm</SPAN><SPAN STYLE="font-size:2.32vh;font-family:'Open Sans';"> và</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:2.3153252480705624vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#4a8ecc;font-size:2.32vh;font-family:'Open Sans';">chuyên nghiệp</SPAN><SPAN STYLE="font-size:2.32vh;font-family:'Open Sans';"> trong</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:2.3153252480705624vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.32vh;font-family:'Open Sans';">quy trình sản xuất</SPAN></SPAN></DIV></div>
