@@ -39,6 +39,6 @@
  "start_url": "index.htm",
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "name": "Wepac",
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "name": "Wepac"
 }
